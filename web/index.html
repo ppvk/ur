@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <!-- Display Page Title -->
+  <title>Home</title>
+  <!--Import fonts-->
+  <link href='https://fonts.googleapis.com/css?family=Fredoka+One' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Sniglet:800' rel='stylesheet' type='text/css'>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+  <!--Import game css-->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<main>
+  <div id="img-text">
+    <span class="current"></span><span class="smi">i</span>
+  </div>
+  <div id="energy-disks">
+    <img class="green" src="images/energymeter.svg">
+    <img class="red" src="images/energymeterred.svg">
+  </div>
+  <div id="energy-mask"></div>
+  <img id="energy-bolt" src="images/energybolt.svg">
+
+  <div id="mood-disk">
+    <div class="hurt"></div>
+    <img id="rays" src="images/rays.svg">
+    <div id="portrait">
+      <div id="mood-head"></div>
+    </div>
+    <div id="mood-text">
+      <span class="percent">
+        <span class="number"></span>%
+      </span>
+      <span class="fraction">
+        <span class="current"></span>
+        <span>/</span>
+        <span class="max"></span>
+      </span>
+    </div>
+  </div>
+
+  <div id="energy-text">
+    <span class="current"></span>
+    <span>/</span>
+    <span class="max"></span>
+    <div>Energy</div>
+  </div>
+
+  <div id="time-meter">
+    <div id="time">9:19PM</div>
+    <span id="day">Fabday</span>
+    <span id="date">45th of Fever</span>
+  </div>
+
+  <div id="game">
+    <canvas id="world">
+    </canvas>
+  </div>
+
+  <div id="currant-back">
+    <img src="images/currant.svg" id="currant-icon">
+    <div id="currant-text">
+      <div class="current"></div>
+      <div id="currant-label">Currants</div>
+    </div>
+  </div>
+</main>
+
+<script type="application/dart" src="main.dart"></script>
+<script src="packages/browser/dart.js"></script>
+</body>
+</html>
