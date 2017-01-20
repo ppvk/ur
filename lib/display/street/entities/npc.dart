@@ -3,15 +3,17 @@ part of ur.render;
 Math.Random R = new Math.Random();
 
 class NPC extends Entity {
-  List definition;
   String name;
   List<String> flags;
-  NPC(this.name, this.definition);
+  NPC(this.name);
   load() async {
-    await animation.load(definition);
     addChild(animation);
+    animation.onMouseRightClick.listen((_) {
+      animation.set(animation.state.keys.toList()[R.nextInt(animation.state.keys.length)]);
+    });
   }
 }
+
 
 List PIGGYDEF = [
   {

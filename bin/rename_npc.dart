@@ -2,7 +2,6 @@ import 'dart:io';
 
 
 main() async {
-    throw('dont use');
   Directory npcDirectory = new Directory('web/images/npc');
 
   npcDirectory.list(recursive: true).listen((FileSystemEntity fse) {

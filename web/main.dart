@@ -28,30 +28,8 @@ main() async {
   StreetRenderer.juggler.clear();
   StreetRenderer.setStreet(street);
 
-  NPC piggy = new NPC('pig', PIGGYDEF);
-  piggy.onMouseOver.listen((_) {
-    piggy.glowing = true;
-  });
-  piggy.onMouseOut.listen((_) {
-    piggy.glowing = false;
-  });
-  piggy.onMouseClick.listen((_) {
-    piggy.spawnBubble("Hello Friend!", "Piggy");
-  });
-  await street.spawn(300, 300, piggy);
-
-  Player player = new Player('Paul');
-  await street.spawn(400, 300, player);
-  player.animation.set('walk');
-  player.onMouseClick.listen((_) {
-    player.spawnBubble("Hello Friend! Hello Friend! Hello Friend! Hello Friend! Hello Friend! Hello Friend! Hello Friend! Hello Friend! Hello Friend! Hello Friend! Hello Friend! Hello Friend! Hello Friend!", player.name);
-  });
-
-  Quoin quoin = await street.spawnQuoin(200, 250, 'Img', 16);
-  quoin.onMouseClick.listen((_) async {
-    if (!quoin.collected) quoin.pop();
-    else quoin.reset();
-  });
+  Batterfly npc = new Batterfly('npc');
+  await street.spawn(300, 300, npc);
 
   await Keyboard.init();
   loop();

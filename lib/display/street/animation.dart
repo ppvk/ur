@@ -15,7 +15,7 @@ class Animation extends Sprite {
     else this.scaleX = 1;
   }
 
-  set(String name) {
+  set(String name) async {
     if (!state.containsKey(name)) {
       throw ('unloaded Animation $name!');
     }
@@ -29,9 +29,21 @@ class Animation extends Sprite {
 
     state[name].gotoAndPlay(0);
     current = name;
+
+    await state[name].onComplete.first;
   }
 
   /// Populates the [Animation] with the included states.
+  loadFromPath(String path) async {
+    // Path to JSON file
+    _resources.addTextFile(path,
+      'images/' + path + '/' + path.split('/')[1] + '.json'
+    );
+    await _resources.load();
+    String json = _resources.getTextFile(path);
+    await load(JSON.decode(json));
+  }
+
   load(var data) async {
     if (data is! List && data is! Map) {
       throw('Animation data must be a List or a Map!');

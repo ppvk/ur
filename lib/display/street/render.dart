@@ -2,6 +2,7 @@ library ur.render;
 
 import 'dart:html' as html;
 import 'dart:math' as Math;
+import 'dart:convert';
 import 'dart:async';
 
 import 'package:stagexl/stagexl.dart';
@@ -13,10 +14,13 @@ part 'street.dart';
 
 // drawables
 part 'entities/bubble.dart';
-part 'entities/npc.dart';
 part 'entities/player.dart';
 part 'entities/quoin.dart';
 part 'entities/signpost.dart';
+
+part 'entities/npc.dart';
+// npcs
+part 'entities/npc/batterfly.dart';
 
 abstract class StreetRenderer {
   static Camera camera = new Camera._();

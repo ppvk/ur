@@ -3,7 +3,6 @@ import 'dart:convert';
 
 
 main() async {
-  throw('dont use');
   Directory npcDirectory = new Directory('web/images/npc');
 
   List<Directory> npcs = npcDirectory.listSync();
