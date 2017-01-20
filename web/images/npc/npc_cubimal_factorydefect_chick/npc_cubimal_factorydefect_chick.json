@@ -1,0 +1,22 @@
+[
+  {
+    "image": "images/npc/npc_cubimal_factorydefect_chick/npc_cubimal_factorydefect_chick_1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_cubimal_factorydefect_chick/npc_cubimal_factorydefect_chick_race.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "race": {
+        "frames": []
+      }
+    }
+  }
+]

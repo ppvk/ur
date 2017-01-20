@@ -1,0 +1,12 @@
+[
+  {
+    "image": "images/npc/npc_letterblock_variant_A/npc_letterblock_variant_A_idle_stand.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle_stand": {
+        "frames": []
+      }
+    }
+  }
+]

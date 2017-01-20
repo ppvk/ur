@@ -1,0 +1,82 @@
+[
+  {
+    "image": "images/npc/npc_spinning_wheel/npc_spinning_wheel_white_spin.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "white_spin": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_spinning_wheel/npc_spinning_wheel_green_spin.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "green_spin": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_spinning_wheel/npc_spinning_wheel_red_spin.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "red_spin": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_spinning_wheel/npc_spinning_wheel_disappear.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "disappear": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_spinning_wheel/npc_spinning_wheel_appear.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "appear": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_spinning_wheel/npc_spinning_wheel_green_spin_end.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "green_spin_end": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_spinning_wheel/npc_spinning_wheel_white_spin_end.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "white_spin_end": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_spinning_wheel/npc_spinning_wheel_red_spin_end.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "red_spin_end": {
+        "frames": []
+      }
+    }
+  }
+]

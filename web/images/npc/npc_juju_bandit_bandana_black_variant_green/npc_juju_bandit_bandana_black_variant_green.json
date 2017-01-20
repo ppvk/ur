@@ -1,0 +1,102 @@
+[
+  {
+    "image": "images/npc/npc_juju_bandit_bandana_black_variant_green/npc_juju_bandit_bandana_black_variant_green_idle2_part1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle2_part1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_juju_bandit_bandana_black_variant_green/npc_juju_bandit_bandana_black_variant_green_swipe.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "swipe": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_juju_bandit_bandana_black_variant_green/npc_juju_bandit_bandana_black_variant_green_idle1_part1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle1_part1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_juju_bandit_bandana_black_variant_green/npc_juju_bandit_bandana_black_variant_green_walk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_juju_bandit_bandana_black_variant_green/npc_juju_bandit_bandana_black_variant_green_idle1_part2.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle1_part2": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_juju_bandit_bandana_black_variant_green/npc_juju_bandit_bandana_black_variant_green_idle2_part2.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle2_part2": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_juju_bandit_bandana_black_variant_green/npc_juju_bandit_bandana_black_variant_green_spawn.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "spawn": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_juju_bandit_bandana_black_variant_green/npc_juju_bandit_bandana_black_variant_green_iconic.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "iconic": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_juju_bandit_bandana_black_variant_green/npc_juju_bandit_bandana_black_variant_green_shrink.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "shrink": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_juju_bandit_bandana_black_variant_green/npc_juju_bandit_bandana_black_variant_green_walk_end.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk_end": {
+        "frames": []
+      }
+    }
+  }
+]

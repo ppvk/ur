@@ -1,0 +1,22 @@
+[
+  {
+    "image": "images/npc/npc_cubimal_dustbunny/npc_cubimal_dustbunny_1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_cubimal_dustbunny/npc_cubimal_dustbunny_race.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "race": {
+        "frames": []
+      }
+    }
+  }
+]

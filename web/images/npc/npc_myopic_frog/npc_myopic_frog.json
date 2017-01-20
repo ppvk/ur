@@ -1,0 +1,52 @@
+[
+  {
+    "image": "images/npc/npc_myopic_frog/npc_myopic_frog_moveStart.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "moveStart": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_myopic_frog/npc_myopic_frog_idle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_myopic_frog/npc_myopic_frog_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_myopic_frog/npc_myopic_frog_moveEnd.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "moveEnd": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_myopic_frog/npc_myopic_frog_move.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "move": {
+        "frames": []
+      }
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "image": "images/npc/npc_dumbbot_variant_widgetWhite/npc_dumbbot_variant_widgetWhite_move.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "move": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_dumbbot_variant_widgetWhite/npc_dumbbot_variant_widgetWhite_idle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_dumbbot_variant_widgetWhite/npc_dumbbot_variant_widgetWhite_attract.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "attract": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_dumbbot_variant_widgetWhite/npc_dumbbot_variant_widgetWhite_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  }
+]

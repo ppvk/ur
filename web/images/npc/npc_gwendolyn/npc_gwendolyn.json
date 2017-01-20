@@ -1,0 +1,32 @@
+[
+  {
+    "image": "images/npc/npc_gwendolyn/npc_gwendolyn_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_gwendolyn/npc_gwendolyn_idle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_gwendolyn/npc_gwendolyn_iconic.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "iconic": {
+        "frames": []
+      }
+    }
+  }
+]

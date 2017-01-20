@@ -1,0 +1,62 @@
+[
+  {
+    "image": "images/npc/npc_squid_variant_squidYellow/npc_squid_variant_squidYellow_attract.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "attract": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_squid_variant_squidYellow/npc_squid_variant_squidYellow_idle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_squid_variant_squidYellow/npc_squid_variant_squidYellow_move.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "move": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_squid_variant_squidYellow/npc_squid_variant_squidYellow_bamfOut.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "bamfOut": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_squid_variant_squidYellow/npc_squid_variant_squidYellow_bamfIn.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "bamfIn": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_squid_variant_squidYellow/npc_squid_variant_squidYellow_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  }
+]

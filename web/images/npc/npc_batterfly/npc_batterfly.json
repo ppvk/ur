@@ -1,0 +1,62 @@
+[
+  {
+    "image": "images/npc/npc_batterfly/npc_batterfly_profile.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "profile": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_batterfly/npc_batterfly_front_waiting.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "front_waiting": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_batterfly/npc_batterfly_front_turned.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "front_turned": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_batterfly/npc_batterfly.json",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "npc_batterfly.json": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_batterfly/npc_batterfly_chew.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "chew": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_batterfly/npc_batterfly_profile_turned.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "profile_turned": {
+        "frames": []
+      }
+    }
+  }
+]

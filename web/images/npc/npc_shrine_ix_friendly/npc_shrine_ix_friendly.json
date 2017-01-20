@@ -1,0 +1,22 @@
+[
+  {
+    "image": "images/npc/npc_shrine_ix_friendly/npc_shrine_ix_friendly_open.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "open": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_shrine_ix_friendly/npc_shrine_ix_friendly_close.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "close": {
+        "frames": []
+      }
+    }
+  }
+]

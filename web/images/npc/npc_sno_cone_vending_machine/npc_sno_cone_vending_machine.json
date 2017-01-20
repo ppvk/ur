@@ -1,0 +1,72 @@
+[
+  {
+    "image": "images/npc/npc_sno_cone_vending_machine/npc_sno_cone_vending_machine_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_sno_cone_vending_machine/npc_sno_cone_vending_machine_idle_stand.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle_stand": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_sno_cone_vending_machine/npc_sno_cone_vending_machine_attract.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "attract": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_sno_cone_vending_machine/npc_sno_cone_vending_machine_walk_end.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk_end": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_sno_cone_vending_machine/npc_sno_cone_vending_machine_iconic.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "iconic": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_sno_cone_vending_machine/npc_sno_cone_vending_machine_walk_left.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk_left": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_sno_cone_vending_machine/npc_sno_cone_vending_machine_walk_right.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk_right": {
+        "frames": []
+      }
+    }
+  }
+]

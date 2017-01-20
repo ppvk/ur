@@ -1,0 +1,62 @@
+[
+  {
+    "image": "images/npc/npc_rare_item_vendor/npc_rare_item_vendor_walk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_rare_item_vendor/npc_rare_item_vendor_iconic.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "iconic": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_rare_item_vendor/npc_rare_item_vendor_empty.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "empty": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_rare_item_vendor/npc_rare_item_vendor_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_rare_item_vendor/npc_rare_item_vendor_idle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_rare_item_vendor/npc_rare_item_vendor_idleHold.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idleHold": {
+        "frames": []
+      }
+    }
+  }
+]

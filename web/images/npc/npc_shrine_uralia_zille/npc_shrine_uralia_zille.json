@@ -1,0 +1,22 @@
+[
+  {
+    "image": "images/npc/npc_shrine_uralia_zille/npc_shrine_uralia_zille_open.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "open": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_shrine_uralia_zille/npc_shrine_uralia_zille_close.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "close": {
+        "frames": []
+      }
+    }
+  }
+]

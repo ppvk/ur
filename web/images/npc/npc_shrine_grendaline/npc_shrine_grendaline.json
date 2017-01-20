@@ -1,0 +1,22 @@
+[
+  {
+    "image": "images/npc/npc_shrine_grendaline/npc_shrine_grendaline_open.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "open": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_shrine_grendaline/npc_shrine_grendaline_close.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "close": {
+        "frames": []
+      }
+    }
+  }
+]

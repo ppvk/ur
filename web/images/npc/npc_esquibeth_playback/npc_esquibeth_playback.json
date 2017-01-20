@@ -1,0 +1,92 @@
+[
+  {
+    "image": "images/npc/npc_esquibeth_playback/npc_esquibeth_playback_note2.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "note2": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_esquibeth_playback/npc_esquibeth_playback_disappear.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "disappear": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_esquibeth_playback/npc_esquibeth_playback_note3.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "note3": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_esquibeth_playback/npc_esquibeth_playback_note5.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "note5": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_esquibeth_playback/npc_esquibeth_playback_appear.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "appear": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_esquibeth_playback/npc_esquibeth_playback_note4.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "note4": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_esquibeth_playback/npc_esquibeth_playback_blank.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "blank": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_esquibeth_playback/npc_esquibeth_playback_note1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "note1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_esquibeth_playback/npc_esquibeth_playback_idle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle": {
+        "frames": []
+      }
+    }
+  }
+]

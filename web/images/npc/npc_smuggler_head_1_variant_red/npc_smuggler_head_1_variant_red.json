@@ -1,0 +1,132 @@
+[
+  {
+    "image": "images/npc/npc_smuggler_head_1_variant_red/npc_smuggler_head_1_variant_red_idleHoldNoBox.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idleHoldNoBox": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_smuggler_head_1_variant_red/npc_smuggler_head_1_variant_red_idleNoBox.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idleNoBox": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_smuggler_head_1_variant_red/npc_smuggler_head_1_variant_red_giveBox.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "giveBox": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_smuggler_head_1_variant_red/npc_smuggler_head_1_variant_red_takeBox.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "takeBox": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_smuggler_head_1_variant_red/npc_smuggler_head_1_variant_red_exitNoBox.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "exitNoBox": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_smuggler_head_1_variant_red/npc_smuggler_head_1_variant_red_arriveWithBox.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "arriveWithBox": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_smuggler_head_1_variant_red/npc_smuggler_head_1_variant_red_arriveNoBox.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "arriveNoBox": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_smuggler_head_1_variant_red/npc_smuggler_head_1_variant_red_talkWithBox.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talkWithBox": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_smuggler_head_1_variant_red/npc_smuggler_head_1_variant_red_idleHoldWithBox.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idleHoldWithBox": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_smuggler_head_1_variant_red/npc_smuggler_head_1_variant_red_exitWithBox.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "exitWithBox": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_smuggler_head_1_variant_red/npc_smuggler_head_1_variant_red_iconic.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "iconic": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_smuggler_head_1_variant_red/npc_smuggler_head_1_variant_red_idleWithBox.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idleWithBox": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_smuggler_head_1_variant_red/npc_smuggler_head_1_variant_red_talkNoBox.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talkNoBox": {
+        "frames": []
+      }
+    }
+  }
+]

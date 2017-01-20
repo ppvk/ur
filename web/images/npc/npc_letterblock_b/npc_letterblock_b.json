@@ -1,0 +1,72 @@
+[
+  {
+    "image": "images/npc/npc_letterblock_b/npc_letterblock_b_hover_land.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "hover_land": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_letterblock_b/npc_letterblock_b_hover_takeoff.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "hover_takeoff": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_letterblock_b/npc_letterblock_b_hover.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "hover": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_letterblock_b/npc_letterblock_b_spin_out.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "spin_out": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_letterblock_b/npc_letterblock_b_spin.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "spin": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_letterblock_b/npc_letterblock_b_spin_in.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "spin_in": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_letterblock_b/npc_letterblock_b_idle_stand.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle_stand": {
+        "frames": []
+      }
+    }
+  }
+]

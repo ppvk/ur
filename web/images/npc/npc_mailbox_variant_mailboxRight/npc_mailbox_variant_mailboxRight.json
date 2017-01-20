@@ -1,0 +1,52 @@
+[
+  {
+    "image": "images/npc/npc_mailbox_variant_mailboxRight/npc_mailbox_variant_mailboxRight_interact.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "interact": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_mailbox_variant_mailboxRight/npc_mailbox_variant_mailboxRight_has_mail_idle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "has_mail_idle": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_mailbox_variant_mailboxRight/npc_mailbox_variant_mailboxRight_has_mail.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "has_mail": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_mailbox_variant_mailboxRight/npc_mailbox_variant_mailboxRight_idle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_mailbox_variant_mailboxRight/npc_mailbox_variant_mailboxRight_all_done.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "all_done": {
+        "frames": []
+      }
+    }
+  }
+]

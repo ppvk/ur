@@ -1,0 +1,22 @@
+[
+  {
+    "image": "images/npc/npc_shrine_ix_cosma/npc_shrine_ix_cosma_close.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "close": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_shrine_ix_cosma/npc_shrine_ix_cosma_open.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "open": {
+        "frames": []
+      }
+    }
+  }
+]

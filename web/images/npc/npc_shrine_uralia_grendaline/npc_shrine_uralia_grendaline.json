@@ -1,0 +1,22 @@
+[
+  {
+    "image": "images/npc/npc_shrine_uralia_grendaline/npc_shrine_uralia_grendaline_open.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "open": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_shrine_uralia_grendaline/npc_shrine_uralia_grendaline_close.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "close": {
+        "frames": []
+      }
+    }
+  }
+]

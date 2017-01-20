@@ -1,0 +1,152 @@
+[
+  {
+    "image": "images/npc/npc_yoga_frog_box_box_variant_frogRed/npc_yoga_frog_box_box_variant_frogRed_dancerPose.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "dancerPose": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_yoga_frog_box_box_variant_frogRed/npc_yoga_frog_box_box_variant_frogRed_warriorPoseOut.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "warriorPoseOut": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_yoga_frog_box_box_variant_frogRed/npc_yoga_frog_box_box_variant_frogRed_treePoseOut.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "treePoseOut": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_yoga_frog_box_box_variant_frogRed/npc_yoga_frog_box_box_variant_frogRed_moveStart.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "moveStart": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_yoga_frog_box_box_variant_frogRed/npc_yoga_frog_box_box_variant_frogRed_dancerPoseOut.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "dancerPoseOut": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_yoga_frog_box_box_variant_frogRed/npc_yoga_frog_box_box_variant_frogRed_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_yoga_frog_box_box_variant_frogRed/npc_yoga_frog_box_box_variant_frogRed_treePoseIn.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "treePoseIn": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_yoga_frog_box_box_variant_frogRed/npc_yoga_frog_box_box_variant_frogRed_treePose.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "treePose": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_yoga_frog_box_box_variant_frogRed/npc_yoga_frog_box_box_variant_frogRed_warriorPoseIn.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "warriorPoseIn": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_yoga_frog_box_box_variant_frogRed/npc_yoga_frog_box_box_variant_frogRed_move.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "move": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_yoga_frog_box_box_variant_frogRed/npc_yoga_frog_box_box_variant_frogRed_moveEnd.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "moveEnd": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_yoga_frog_box_box_variant_frogRed/npc_yoga_frog_box_box_variant_frogRed_iconic.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "iconic": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_yoga_frog_box_box_variant_frogRed/npc_yoga_frog_box_box_variant_frogRed_idle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_yoga_frog_box_box_variant_frogRed/npc_yoga_frog_box_box_variant_frogRed_warriorPose.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "warriorPose": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_yoga_frog_box_box_variant_frogRed/npc_yoga_frog_box_box_variant_frogRed_dancerPoseIn.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "dancerPoseIn": {
+        "frames": []
+      }
+    }
+  }
+]

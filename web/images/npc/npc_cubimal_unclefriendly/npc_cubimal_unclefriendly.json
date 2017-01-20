@@ -1,0 +1,22 @@
+[
+  {
+    "image": "images/npc/npc_cubimal_unclefriendly/npc_cubimal_unclefriendly_1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_cubimal_unclefriendly/npc_cubimal_unclefriendly_race.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "race": {
+        "frames": []
+      }
+    }
+  }
+]

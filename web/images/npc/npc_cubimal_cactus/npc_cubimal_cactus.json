@@ -1,0 +1,22 @@
+[
+  {
+    "image": "images/npc/npc_cubimal_cactus/npc_cubimal_cactus_1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_cubimal_cactus/npc_cubimal_cactus_race.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "race": {
+        "frames": []
+      }
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "image": "images/npc/npc_shrine_alph/npc_shrine_alph_open.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "open": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_shrine_alph/npc_shrine_alph_close.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "close": {
+        "frames": []
+      }
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "image": "images/npc/npc_gardening_vendor/npc_gardening_vendor_walk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_gardening_vendor/npc_gardening_vendor_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_gardening_vendor/npc_gardening_vendor_walk_end.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk_end": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_gardening_vendor/npc_gardening_vendor_idle_stand.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle_stand": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_gardening_vendor/npc_gardening_vendor_attract.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "attract": {
+        "frames": []
+      }
+    }
+  }
+]

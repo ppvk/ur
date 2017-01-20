@@ -1,0 +1,52 @@
+[
+  {
+    "image": "images/npc/npc_newxp_dustbunny/npc_newxp_dustbunny_walk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_newxp_dustbunny/npc_newxp_dustbunny_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_newxp_dustbunny/npc_newxp_dustbunny_turn.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "turn": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_newxp_dustbunny/npc_newxp_dustbunny_idle_stand.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle_stand": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_newxp_dustbunny/npc_newxp_dustbunny_walk_right.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk_right": {
+        "frames": []
+      }
+    }
+  }
+]

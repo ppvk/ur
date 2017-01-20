@@ -29,7 +29,7 @@
     left:18px;
     height:106px;
     width:130px;
-    background-image: url(../images/leftcornerover.svg);
+    background-image: url(../images/ui/leftcornerover.svg);
 }
 
 #energy-bolt {
@@ -218,7 +218,7 @@
     left:0;
     width: 100%;
     height: 100%;
-    background-image: url("raindrop.svg");
+    background-image: url("images/ui/raindrop.svg");
     background-size: 20px;
     background-repeat: repeat;
     -webkit-animation: rain 0.7s infinite linear;

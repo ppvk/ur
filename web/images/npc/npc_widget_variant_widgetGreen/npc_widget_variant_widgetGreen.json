@@ -1,0 +1,42 @@
+[
+  {
+    "image": "images/npc/npc_widget_variant_widgetGreen/npc_widget_variant_widgetGreen_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_widget_variant_widgetGreen/npc_widget_variant_widgetGreen_idle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_widget_variant_widgetGreen/npc_widget_variant_widgetGreen_move.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "move": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_widget_variant_widgetGreen/npc_widget_variant_widgetGreen_attract.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "attract": {
+        "frames": []
+      }
+    }
+  }
+]

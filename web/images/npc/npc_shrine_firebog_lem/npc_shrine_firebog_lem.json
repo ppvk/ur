@@ -1,0 +1,22 @@
+[
+  {
+    "image": "images/npc/npc_shrine_firebog_lem/npc_shrine_firebog_lem_close.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "close": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_shrine_firebog_lem/npc_shrine_firebog_lem_open.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "open": {
+        "frames": []
+      }
+    }
+  }
+]

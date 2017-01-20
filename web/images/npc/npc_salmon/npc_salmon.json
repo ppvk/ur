@@ -1,0 +1,62 @@
+[
+  {
+    "image": "images/npc/npc_salmon/npc_salmon_swimRightDown30.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "swimRightDown30": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_salmon/npc_salmon_swimRightUp15.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "swimRightUp15": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_salmon/npc_salmon_swimRight.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "swimRight": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_salmon/npc_salmon_turnRight.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "turnRight": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_salmon/npc_salmon_swimRightDown15.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "swimRightDown15": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_salmon/npc_salmon_swimRightUp30.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "swimRightUp30": {
+        "frames": []
+      }
+    }
+  }
+]

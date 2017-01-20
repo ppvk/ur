@@ -1,0 +1,52 @@
+[
+  {
+    "image": "images/npc/npc_juju_black/npc_juju_black_idle1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_juju_black/npc_juju_black_move_right.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "move_right": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_juju_black/npc_juju_black_shrink.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "shrink": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_juju_black/npc_juju_black_spawn.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "spawn": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_juju_black/npc_juju_black_idle2.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle2": {
+        "frames": []
+      }
+    }
+  }
+]
