@@ -1,0 +1,93 @@
+[
+  {
+    "image": "images/npc/npc_bureaucrat/npc_bureaucrat_walk2.png",
+    "height": 2,
+    "width": 6,
+    "animations": {
+      "walk2": {
+        "frames": [
+          [0, 11]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_bureaucrat/npc_bureaucrat_idle0.png",
+    "height": 1,
+    "width": 1,
+    "animations": {
+      "idle0": {
+        "frames": [
+          0
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_bureaucrat/npc_bureaucrat_walk1.png",
+    "height": 3,
+    "width": 8,
+    "animations": {
+      "walk1": {
+        "frames": [
+          [0, 23]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_bureaucrat/npc_bureaucrat_idle1.png",
+    "height": 7,
+    "width": 9,
+    "animations": {
+      "idle1": {
+        "frames": [
+          [0, 56]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_bureaucrat/npc_bureaucrat_iconic.png",
+    "height": 1,
+    "width": 1,
+    "animations": {
+      "iconic": {
+        "frames": [
+          0
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_bureaucrat/npc_bureaucrat_idle2.png",
+    "height": 8,
+    "width": 10,
+    "animations": {
+      "idle2": {
+        "frames": [
+          [0, 78]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_bureaucrat/npc_bureaucrat_talk.png",
+    "height": 3,
+    "width": 9,
+    "animations": {
+      "talk": {
+        "frames": [
+          [0, 25]
+        ],
+        "loop": true
+      }
+    }
+  }
+]

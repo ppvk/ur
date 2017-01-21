@@ -68,7 +68,7 @@ class Street extends DisplayObjectContainer {
     }
   }
 
-  spawn(int x, int y, Entity npc) async {
+  spawn(int x, int y, DisplayObject npc) async {
     await npc.load();
     npc.x = x + bounds.left;
     npc.y = y + bounds.top;

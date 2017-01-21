@@ -1,0 +1,66 @@
+[
+  {
+    "image": "images/npc/npc_bundle_of_joy/npc_bundle_of_joy_turn.png",
+    "height": 1,
+    "width": 7,
+    "animations": {
+      "turn": {
+        "frames": [
+          [0, 6]
+        ]
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_bundle_of_joy/npc_bundle_of_joy_walk.png",
+    "height": 1,
+    "width": 8,
+    "animations": {
+      "walk": {
+        "frames": [
+          [0, 7]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_bundle_of_joy/npc_bundle_of_joy_idle_stand.png",
+    "height": 20,
+    "width": 9,
+    "animations": {
+      "idle_stand": {
+        "frames": [
+          [0, 172]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_bundle_of_joy/npc_bundle_of_joy_talk.png",
+    "height": 6,
+    "width": 9,
+    "animations": {
+      "talk": {
+        "frames": [
+          [0,49]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_bundle_of_joy/npc_bundle_of_joy_walk_right.png",
+    "height": 1,
+    "width": 9,
+    "animations": {
+      "walk_right": {
+        "frames": [
+          [0,8]
+        ],
+        "loop": true
+      }
+    }
+  }
+]

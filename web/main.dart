@@ -5,6 +5,8 @@ import 'package:ur/display/street/render.dart';
 import 'package:ur/display/ui/meters.dart';
 import 'package:ur/display/ui/time.dart';
 
+import 'package:ur/display/render.dart';
+
 main() async {
   Meters.img = 0;
   Meters.currants = 1024;
@@ -13,9 +15,7 @@ main() async {
   Meters.energy = 100;
   Meters.energyMax = 100;
   Clock.start();
-
   StreetRenderer.init();
-
 
   StreetRenderer.resourceManager.addTextFile('mira.json', 'mira.json');
   await StreetRenderer.resourceManager.load();
@@ -23,13 +23,16 @@ main() async {
 
   Street street = new Street(def);
   await street.load();
-
-  StreetRenderer.stage.children.clear();
-  StreetRenderer.juggler.clear();
   StreetRenderer.setStreet(street);
 
-  Batterfly npc = new Batterfly('npc');
+  StreetRenderer.juggler.add(Animator.juggler);
+
+  NPC npc = new CraftyBot('npc');
   await street.spawn(300, 300, npc);
+
+  Animator npc2 = new Animator('images/npc/npc_batterfly/npc_batterfly.json');
+  await street.spawn(400, 300, npc2);
+  npc2.set('chew');
 
   await Keyboard.init();
   loop();

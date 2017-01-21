@@ -21,6 +21,14 @@ part 'entities/signpost.dart';
 part 'entities/npc.dart';
 // npcs
 part 'entities/npc/batterfly.dart';
+part 'entities/npc/bundle_of_joy.dart';
+part 'entities/npc/bureaucrat.dart';
+part 'entities/npc/butterfly.dart';
+part 'entities/npc/cactus.dart';
+part 'entities/npc/chicken.dart';
+part 'entities/npc/cooking_vendor.dart';
+part 'entities/npc/crab.dart';
+part 'entities/npc/crafty_bot.dart';
 
 abstract class StreetRenderer {
   static Camera camera = new Camera._();

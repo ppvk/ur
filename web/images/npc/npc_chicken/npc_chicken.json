@@ -1,0 +1,230 @@
+[
+  {
+    "image": "images/npc/npc_chicken/npc_chicken_idle2.png",
+    "height": 8,
+    "width": 6,
+    "animations": {
+      "idle2": {
+        "frames": [
+          [0, 46]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_chicken/npc_chicken_fall.png",
+    "height": 5,
+    "width": 5,
+    "animations": {
+      "fall": {
+        "frames": [
+          [0, 24]
+        ]
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_chicken/npc_chicken_idle1.png",
+    "height": 12,
+    "width": 6,
+    "animations": {
+      "idle1": {
+        "frames": [
+          [0, 67]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_chicken/npc_chicken_pause.png",
+    "height": 22,
+    "width": 6,
+    "animations": {
+      "pause": {
+        "frames": [
+          [0, 130]
+        ]
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_chicken/npc_chicken_rooked1.png",
+    "height": 1,
+    "width": 1,
+    "animations": {
+      "rooked1": {
+        "frames": [
+          0
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_chicken/npc_chicken_idle3.png",
+    "height": 15,
+    "width": 6,
+    "animations": {
+      "idle3": {
+        "frames": [
+          [0, 85]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_chicken/npc_chicken_incubate.png",
+    "height": 32,
+    "width": 6,
+    "animations": {
+      "incubate": {
+        "frames": [
+          [0, 189]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_chicken/npc_chicken_sit.png",
+    "height": 4,
+    "width": 5,
+    "animations": {
+      "sit": {
+        "frames": [
+          [0, 19]
+        ]
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_chicken/npc_chicken_pecking_twice.png",
+    "height": 7,
+    "width": 6,
+    "animations": {
+      "pecking_twice": {
+        "frames": [
+          [0, 39]
+        ]
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_chicken/npc_chicken_verb.png",
+    "height": 10,
+    "width": 6,
+    "animations": {
+      "verb": {
+        "frames": [
+          [0, 54]
+        ],
+        "loop": true,
+        "bounce": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_chicken/npc_chicken_land_on_ladder.png",
+    "height": 5,
+    "width": 6,
+    "animations": {
+      "land_on_ladder": {
+        "frames": [
+          [0, 25]
+        ]
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_chicken/npc_chicken_flying_back.png",
+    "height": 3,
+    "width": 6,
+    "animations": {
+      "flying_back": {
+        "frames": [
+          [0, 16]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_chicken/npc_chicken_rooked2.png",
+    "height": 5,
+    "width": 6,
+    "animations": {
+      "rooked2": {
+        "frames": [
+          [0, 26]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_chicken/npc_chicken_flying.png",
+    "height": 7,
+    "width": 6,
+    "animations": {
+      "flying": {
+        "frames": [
+          [0, 41]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_chicken/npc_chicken_walk.png",
+    "height": 4,
+    "width": 6,
+    "animations": {
+      "walk": {
+        "frames": [
+          [0, 23]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_chicken/npc_chicken_flying_no_feathers.png",
+    "height": 7,
+    "width": 6,
+    "animations": {
+      "flying_no_feathers": {
+        "frames": [
+          [0, 41]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_chicken/npc_chicken_pecking_once.png",
+    "height": 6,
+    "width": 6,
+    "animations": {
+      "pecking_once": {
+        "frames": [
+          [0, 31]
+        ]
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_chicken/npc_chicken_land.png",
+    "height": 5,
+    "width": 5,
+    "animations": {
+      "land": {
+        "frames": [
+          [0, 24]
+        ]
+      }
+    }
+  }
+]

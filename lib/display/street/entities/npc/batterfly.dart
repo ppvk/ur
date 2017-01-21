@@ -5,5 +5,6 @@ class Batterfly extends NPC {
   load() async {
     await animation.loadFromPath('npc/npc_batterfly');
     await super.load();
+    animation.set('profile');
   }
 }

@@ -1,0 +1,179 @@
+[
+  {
+    "image": "images/npc/npc_crafty_bot/npc_crafty_bot_expand.png",
+    "height": 14,
+    "width": 7,
+    "animations": {
+      "expand": {
+        "frames": [
+          [0, 92]
+        ]
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_crafty_bot/npc_crafty_bot_sleepMode.png",
+    "height": 1,
+    "width": 1,
+    "animations": {
+      "sleepMode": {
+        "frames": [
+          0
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_crafty_bot/npc_crafty_bot_craftStart.png",
+    "height": 2,
+    "width": 7,
+    "animations": {
+      "craftStart": {
+        "frames": [
+          [0, 12]
+        ]
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_crafty_bot/npc_crafty_bot_craftEnd.png",
+    "height": 3,
+    "width": 6,
+    "animations": {
+      "craftEnd": {
+        "frames": [
+          [0, 16]
+        ]
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_crafty_bot/npc_crafty_bot_iconic_craft.png",
+    "height": 2,
+    "width": 10,
+    "animations": {
+      "iconic_craft": {
+        "frames": [
+          [0, 19]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_crafty_bot/npc_crafty_bot_idle0.png",
+    "height": 1,
+    "width": 1,
+    "animations": {
+      "idle0": {
+        "frames": [
+          0
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_crafty_bot/npc_crafty_bot_collapse.png",
+    "height": 14,
+    "width": 7,
+    "animations": {
+      "collapse": {
+        "frames": [
+          [0, 96]
+        ]
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_crafty_bot/npc_crafty_bot_peek.png",
+    "height": 11,
+    "width": 7,
+    "animations": {
+      "peek": {
+        "frames": [
+          [0, 74]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_crafty_bot/npc_crafty_bot_idle1.png",
+    "height": 9,
+    "width": 7,
+    "animations": {
+      "idle1": {
+        "frames": [
+          [0, 59]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_crafty_bot/npc_crafty_bot_iconic.png",
+    "height": 3,
+    "width": 25,
+    "animations": {
+      "iconic": {
+        "frames": [
+          [0, 74]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_crafty_bot/npc_crafty_bot_talk.png",
+    "height": 9,
+    "width": 7,
+    "animations": {
+      "talk": {
+        "frames": [
+          [0, 60]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_crafty_bot/npc_crafty_bot_idleCube.png",
+    "height": 1,
+    "width": 1,
+    "animations": {
+      "idleCube": {
+        "frames": [
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_crafty_bot/npc_crafty_bot_walk.png",
+    "height": 5,
+    "width": 6,
+    "animations": {
+      "walk": {
+        "frames": [
+          [0, 28]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_crafty_bot/npc_crafty_bot_idle2.png",
+    "height": 9,
+    "width": 7,
+    "animations": {
+      "idle2": {
+        "frames": [
+          [0, 60]
+        ],
+        "loop": true
+      }
+    }
+  }
+]

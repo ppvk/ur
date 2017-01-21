@@ -8,8 +8,14 @@ class NPC extends Entity {
   NPC(this.name);
   load() async {
     addChild(animation);
+
+    int i = 0;
     animation.onMouseRightClick.listen((_) {
-      animation.set(animation.state.keys.toList()[R.nextInt(animation.state.keys.length)]);
+      if ( i >= animation.state.keys.length) i = 0;
+      String anim = animation.state.keys.toList()[i];
+      i++;
+      print(anim);
+      animation.set(anim);
     });
   }
 }

@@ -1,0 +1,104 @@
+[
+  {
+    "image": "images/npc/npc_cooking_vendor/npc_cooking_vendor_walk_left_end.png",
+    "height": 4,
+    "width": 4,
+    "animations": {
+      "walk_left_end": {
+        "frames": [
+          [0, 15]
+        ]
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_cooking_vendor/npc_cooking_vendor_walk_right.png",
+    "height": 4,
+    "width": 4,
+    "animations": {
+      "walk_right": {
+        "frames": [
+          [0, 15]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_cooking_vendor/npc_cooking_vendor_idle_stand_part1.png",
+    "height": 17,
+    "width": 21,
+    "animations": {
+      "idle_stand_part1": {
+        "frames": [
+          [0, 356]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_cooking_vendor/npc_cooking_vendor_walk_right_end.png",
+    "height": 3,
+    "width": 5,
+    "animations": {
+      "walk_right_end": {
+        "frames": [
+          [0, 13]
+        ]
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_cooking_vendor/npc_cooking_vendor_attract.png",
+    "height": 10,
+    "width": 5,
+    "animations": {
+      "attract": {
+        "frames": [
+          [0, 49]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_cooking_vendor/npc_cooking_vendor_talk.png",
+    "height": 8,
+    "width": 5,
+    "animations": {
+      "talk": {
+        "frames": [
+          [0, 35]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_cooking_vendor/npc_cooking_vendor_idle_stand_part2.png",
+    "height": 5,
+    "width": 5,
+    "animations": {
+      "idle_stand_part2": {
+        "frames": [
+          [0, 24]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "images/npc/npc_cooking_vendor/npc_cooking_vendor_walk_left.png",
+    "height": 4,
+    "width": 4,
+    "animations": {
+      "walk_left": {
+        "frames": [
+          [0, 15]
+        ],
+        "loop": true
+      }
+    }
+  }
+]
