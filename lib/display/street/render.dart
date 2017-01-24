@@ -1,34 +1,16 @@
 library ur.render;
 
+/*
 import 'dart:html' as html;
 import 'dart:math' as Math;
-import 'dart:convert';
 import 'dart:async';
 
 import 'package:stagexl/stagexl.dart';
+import 'package:ur/display/entities/signpost.dart';
 
-part 'animation.dart';
 part 'camera.dart';
 part 'layers.dart';
 part 'street.dart';
-
-// drawables
-part 'entities/bubble.dart';
-part 'entities/player.dart';
-part 'entities/quoin.dart';
-part 'entities/signpost.dart';
-
-part 'entities/npc.dart';
-// npcs
-part 'entities/npc/batterfly.dart';
-part 'entities/npc/bundle_of_joy.dart';
-part 'entities/npc/bureaucrat.dart';
-part 'entities/npc/butterfly.dart';
-part 'entities/npc/cactus.dart';
-part 'entities/npc/chicken.dart';
-part 'entities/npc/cooking_vendor.dart';
-part 'entities/npc/crab.dart';
-part 'entities/npc/crafty_bot.dart';
 
 abstract class StreetRenderer {
   static Camera camera = new Camera._();
@@ -148,3 +130,4 @@ abstract class Entity extends Sprite {
 
   Future load();
 }
+*/

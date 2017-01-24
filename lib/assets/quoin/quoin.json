@@ -1,0 +1,57 @@
+[
+  {
+    "image": "packages/ur/assets/quoin/quoin.png",
+    "height": 8,
+    "width": 24,
+    "animations": {
+      "Img": {
+        "frames": [
+          [0, 23]
+        ],
+        "loop": true
+      },
+      "Mood": {
+        "frames": [
+          [24, 47]
+        ],
+        "loop": true
+      },
+      "Energy": {
+        "frames": [
+          [48, 71]
+        ],
+        "loop": true
+      },
+      "Currant": {
+        "frames": [
+          [72, 95]
+        ],
+        "loop": true
+      },
+      "Mystery": {
+        "frames": [
+          [96, 119]
+        ],
+        "loop": true
+      },
+      "Favor": {
+        "frames": [
+          [120, 143]
+        ],
+        "loop": true
+      },
+      "Time": {
+        "frames": [
+          [144, 167]
+        ],
+        "loop": true
+      },
+      "Quarazy": {
+        "frames": [
+          [168, 191]
+        ],
+        "loop": true
+      }
+    }
+  }
+]

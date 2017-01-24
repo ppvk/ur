@@ -1,11 +1,13 @@
 import 'dart:convert';
 import 'dart:html';
 import 'package:ur/display/keyboard.dart';
-import 'package:ur/display/street/render.dart';
 import 'package:ur/display/ui/meters.dart';
 import 'package:ur/display/ui/time.dart';
 
-import 'package:ur/display/render.dart';
+import 'package:ur/display/streetstage.dart';
+import 'package:ur/display/animator.dart';
+
+StreetStage stage = new StreetStage();
 
 main() async {
   Meters.img = 0;
@@ -15,24 +17,16 @@ main() async {
   Meters.energy = 100;
   Meters.energyMax = 100;
   Clock.start();
-  StreetRenderer.init();
 
-  StreetRenderer.resourceManager.addTextFile('mira.json', 'mira.json');
-  await StreetRenderer.resourceManager.load();
-  Map def = JSON.decode(StreetRenderer.resourceManager.getTextFile('mira.json'));
+  StreetStage.init();
+
+  Animator.resources.addTextFile('mira.json', 'mira.json');
+  await Animator.resources.load();
+  Map def = JSON.decode(Animator.resources.getTextFile('mira.json'));
 
   Street street = new Street(def);
   await street.load();
-  StreetRenderer.setStreet(street);
-
-  StreetRenderer.juggler.add(Animator.juggler);
-
-  NPC npc = new CraftyBot('npc');
-  await street.spawn(300, 300, npc);
-
-  Animator npc2 = new Animator('images/npc/npc_batterfly/npc_batterfly.json');
-  await street.spawn(400, 300, npc2);
-  npc2.set('chew');
+  stage.setStreet(street);
 
   await Keyboard.init();
   loop();
@@ -40,8 +34,8 @@ main() async {
 
 
 loop() async {
-  int newX = StreetRenderer.camera.x;
-  int newY = StreetRenderer.camera.y;
+  int newX = stage.camera.x;
+  int newY = stage.camera.y;
 
   if (Keyboard.pressed(37)) {
     newX -= 20;
@@ -56,10 +50,10 @@ loop() async {
     newY += 20;
   }
 
-  if (newX != StreetRenderer.camera.x || newY != StreetRenderer.camera.y)
-  StreetRenderer.camera.animateTo(
-    newX, newY
-  );
+  if (newX != stage.camera.x || newY != stage.camera.y) {
+    stage.camera.x = newX;
+    stage.camera.y = newY;
+  }
   await window.animationFrame;
   loop();
 }
