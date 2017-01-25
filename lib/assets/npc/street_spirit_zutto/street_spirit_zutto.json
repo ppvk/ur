@@ -1,0 +1,62 @@
+[
+  {
+    "image": "images/npc/street_spirit_zutto/street_spirit_zutto_hoverCry.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "hoverCry": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/street_spirit_zutto/street_spirit_zutto_raise.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "raise": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/street_spirit_zutto/street_spirit_zutto_groundIdle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "groundIdle": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/street_spirit_zutto/street_spirit_zutto_hoverTalk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "hoverTalk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/street_spirit_zutto/street_spirit_zutto_hoverIdle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "hoverIdle": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/street_spirit_zutto/street_spirit_zutto_lower.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "lower": {
+        "frames": []
+      }
+    }
+  }
+]

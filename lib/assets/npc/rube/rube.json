@@ -1,0 +1,82 @@
+[
+  {
+    "image": "images/npc/rube/rube_walk_end.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk_end": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/rube/rube_fade_out.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "fade_out": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/rube/rube_offer_reject.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "offer_reject": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/rube/rube_offer_trade.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "offer_trade": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/rube/rube_walk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/rube/rube_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/rube/rube_offer_accept.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "offer_accept": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/rube/rube_spawn_in.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "spawn_in": {
+        "frames": []
+      }
+    }
+  }
+]

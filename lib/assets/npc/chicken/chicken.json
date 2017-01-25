@@ -1,0 +1,182 @@
+[
+  {
+    "image": "images/npc/chicken/chicken_land_on_ladder.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "land_on_ladder": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/chicken/chicken_pecking_twice.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "pecking_twice": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/chicken/chicken_pause.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "pause": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/chicken/chicken_walk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/chicken/chicken_verb.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "verb": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/chicken/chicken_pecking_once.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "pecking_once": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/chicken/chicken_flying.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "flying": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/chicken/chicken_idle1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/chicken/chicken_idle3.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle3": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/chicken/chicken_rooked1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "rooked1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/chicken/chicken_rooked2.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "rooked2": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/chicken/chicken_flying_no_feathers.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "flying_no_feathers": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/chicken/chicken_fall.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "fall": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/chicken/chicken_sit.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "sit": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/chicken/chicken_idle2.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle2": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/chicken/chicken_flying_back.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "flying_back": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/chicken/chicken_land.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "land": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/chicken/chicken_incubate.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "incubate": {
+        "frames": []
+      }
+    }
+  }
+]

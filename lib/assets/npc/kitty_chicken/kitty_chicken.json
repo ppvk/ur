@@ -1,0 +1,292 @@
+[
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_3jumpAntic.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "3jumpAntic": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_2sleepStart.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "2sleepStart": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_3disappear.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "3disappear": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_1rollStart.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "1rollStart": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_3sleep.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "3sleep": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_1roll.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "1roll": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_3idle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "3idle": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_3sad.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "3sad": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_2idle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "2idle": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_1sleepStart.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "1sleepStart": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_3blink.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "3blink": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_2hitBall.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "2hitBall": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_3hitBall.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "3hitBall": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_2fly.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "2fly": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_1jumpAntic.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "1jumpAntic": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_1idle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "1idle": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_2sleep.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "2sleep": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_1sleep.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "1sleep": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_3fly.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "3fly": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_3chew.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "3chew": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_3jump.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "3jump": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_2jumpAntic.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "2jumpAntic": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_2jump.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "2jump": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_3sleepStart.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "3sleepStart": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_1jump.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "1jump": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_1blink.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "1blink": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_3happy.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "3happy": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_2blink.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "2blink": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/kitty_chicken/kitty_chicken_3appear.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "3appear": {
+        "frames": []
+      }
+    }
+  }
+]

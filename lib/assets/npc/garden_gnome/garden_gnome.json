@@ -1,0 +1,92 @@
+[
+  {
+    "image": "images/npc/garden_gnome/garden_gnome_hopStart.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "hopStart": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/garden_gnome/garden_gnome_bounce.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "bounce": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/garden_gnome/garden_gnome_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/garden_gnome/garden_gnome_hopEnd.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "hopEnd": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/garden_gnome/garden_gnome_idle0.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle0": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/garden_gnome/garden_gnome_idleBlink.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idleBlink": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/garden_gnome/garden_gnome_look.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "look": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/garden_gnome/garden_gnome_lookSettle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "lookSettle": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/garden_gnome/garden_gnome_hopLoop.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "hopLoop": {
+        "frames": []
+      }
+    }
+  }
+]

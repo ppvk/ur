@@ -1,0 +1,52 @@
+[
+  {
+    "image": "images/npc/rare_item_vendor/rare_item_vendor__x1_idle_png_1354840068.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_idle_png_1354840068": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/rare_item_vendor/rare_item_vendor__x1_talk_png_1354840071.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_talk_png_1354840071": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/rare_item_vendor/rare_item_vendor__x1_idleHold_png_1354840065.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_idleHold_png_1354840065": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/rare_item_vendor/rare_item_vendor__x1_walk_png_1354840072.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_walk_png_1354840072": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/rare_item_vendor/rare_item_vendor__x1_empty_png_1354840064.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_empty_png_1354840064": {
+        "frames": []
+      }
+    }
+  }
+]

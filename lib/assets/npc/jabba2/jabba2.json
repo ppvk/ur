@@ -1,0 +1,102 @@
+[
+  {
+    "image": "images/npc/jabba2/jabba2_turn.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "turn": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/jabba2/jabba2_walk_left.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk_left": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/jabba2/jabba2_walk_left_end.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk_left_end": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/jabba2/jabba2_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/jabba2/jabba2_idle_stand_part1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle_stand_part1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/jabba2/jabba2_walk_end.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk_end": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/jabba2/jabba2_impatient.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "impatient": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/jabba2/jabba2_walk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/jabba2/jabba2_idle_stand_part2.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle_stand_part2": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/jabba2/jabba2_turn_right.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "turn_right": {
+        "frames": []
+      }
+    }
+  }
+]

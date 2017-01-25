@@ -1,0 +1,22 @@
+[
+  {
+    "image": "images/npc/forehorseman/forehorseman_frantic.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "frantic": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/forehorseman/forehorseman_idle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle": {
+        "frames": []
+      }
+    }
+  }
+]

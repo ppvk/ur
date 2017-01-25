@@ -1,0 +1,42 @@
+[
+  {
+    "image": "images/npc/street_spirit_ix/street_spirit_ix_move.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "move": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/street_spirit_ix/street_spirit_ix_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/street_spirit_ix/street_spirit_ix_idleCry.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idleCry": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/street_spirit_ix/street_spirit_ix_idle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle": {
+        "frames": []
+      }
+    }
+  }
+]

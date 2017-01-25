@@ -1,0 +1,142 @@
+[
+  {
+    "image": "images/npc/pet_rock/pet_rock__x1_readPageTurn_png_1354831044.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_readPageTurn_png_1354831044": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/pet_rock/pet_rock__x1_ignore_png_1354831045.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_ignore_png_1354831045": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/pet_rock/pet_rock__x1_speedRead_png_1354831046.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_speedRead_png_1354831046": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/pet_rock/pet_rock__x1_bounce_png_1354831040.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_bounce_png_1354831040": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/pet_rock/pet_rock__x1_readRight_png_1354831043.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_readRight_png_1354831043": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/pet_rock/pet_rock__x1_readEnd_png_1354831047.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_readEnd_png_1354831047": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/pet_rock/pet_rock__x1_readStart_png_1354831041.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_readStart_png_1354831041": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/pet_rock/pet_rock__x1_readBreakTalk_png_1354831051.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_readBreakTalk_png_1354831051": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/pet_rock/pet_rock__x1_readResume_png_1354831052.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_readResume_png_1354831052": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/pet_rock/pet_rock__x1_readBreak_png_1354831049.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_readBreak_png_1354831049": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/pet_rock/pet_rock__x1_readBreakEnd_png_1354831052.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_readBreakEnd_png_1354831052": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/pet_rock/pet_rock__x1_readLeft_png_1354831042.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_readLeft_png_1354831042": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/pet_rock/pet_rock__x1_idle_png_1354831039.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_idle_png_1354831039": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/pet_rock/pet_rock__x1_bouncing_png_1354831048.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_bouncing_png_1354831048": {
+        "frames": []
+      }
+    }
+  }
+]

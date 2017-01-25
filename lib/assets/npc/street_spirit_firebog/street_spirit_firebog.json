@@ -1,0 +1,112 @@
+[
+  {
+    "image": "images/npc/street_spirit_firebog/street_spirit_firebog_loneliness.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "loneliness": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/street_spirit_firebog/street_spirit_firebog_rooked.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "rooked": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/street_spirit_firebog/street_spirit_firebog_rookedLoop.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "rookedLoop": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/street_spirit_firebog/street_spirit_firebog_idle_move.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle_move": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/street_spirit_firebog/street_spirit_firebog_close.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "close": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/street_spirit_firebog/street_spirit_firebog_loneliness_out.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "loneliness_out": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/street_spirit_firebog/street_spirit_firebog_rookedRecover.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "rookedRecover": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/street_spirit_firebog/street_spirit_firebog_idle_cry.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle_cry": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/street_spirit_firebog/street_spirit_firebog_open.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "open": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/street_spirit_firebog/street_spirit_firebog_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/street_spirit_firebog/street_spirit_firebog_loneliness_in.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "loneliness_in": {
+        "frames": []
+      }
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "image": "images/npc/fox/fox_eatEnd.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "eatEnd": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/fox/fox_brushed.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "brushed": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/fox/fox_jump.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "jump": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/fox/fox_eat.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "eat": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/fox/fox_eatStart.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "eatStart": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/fox/fox_still.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "still": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/fox/fox_taunt.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "taunt": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/fox/fox_run.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "run": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/fox/fox_pause.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "pause": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/fox/fox_walk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk": {
+        "frames": []
+      }
+    }
+  }
+]

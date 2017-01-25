@@ -5,8 +5,11 @@ main() async {
   Directory npcDirectory = new Directory('web/images/npc');
 
   npcDirectory.list(recursive: true).listen((FileSystemEntity fse) {
-    if (fse is File)
-      fse.rename(fse.path.replaceAll('npc_', ''));
+    //if (fse.path.contains('street_spirit_firebog') && fse is File)
+    //String filename = fse.path.split('/').last;
+
+
+
   });
 
 

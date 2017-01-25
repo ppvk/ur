@@ -1,0 +1,62 @@
+[
+  {
+    "image": "images/npc/deimaginator/deimaginator__x1_idle1_png_1354836029.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_idle1_png_1354836029": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/deimaginator/deimaginator__x1_walk_png_1354836023.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_walk_png_1354836023": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/deimaginator/deimaginator__x1_idle0_png_1354836024.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_idle0_png_1354836024": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/deimaginator/deimaginator__x1_disappear_png_1354836036.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_disappear_png_1354836036": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/deimaginator/deimaginator__x1_talk_png_1354836032.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_talk_png_1354836032": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/deimaginator/deimaginator__x1_appear_png_1354836021.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_appear_png_1354836021": {
+        "frames": []
+      }
+    }
+  }
+]

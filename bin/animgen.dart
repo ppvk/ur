@@ -13,7 +13,7 @@ main() async {
 
     List animation = [];
 
-    for (File anim in anims) {
+    for (File anim in anims.where((file) => file.path.endsWith('.png'))) {
       String animName = anim.path.split('/').last
         .replaceAll(folderName + '_', '')
         .replaceAll('.png', '');

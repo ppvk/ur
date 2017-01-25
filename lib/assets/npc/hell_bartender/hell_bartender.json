@@ -1,0 +1,52 @@
+[
+  {
+    "image": "images/npc/hell_bartender/hell_bartender_talk_right_out.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk_right_out": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/hell_bartender/hell_bartender_idle1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/hell_bartender/hell_bartender_idle2.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle2": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/hell_bartender/hell_bartender_talk_right.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk_right": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/hell_bartender/hell_bartender_talk_left.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk_left": {
+        "frames": []
+      }
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "image": "images/npc/tool_vendor/tool_vendor_turn_right.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "turn_right": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/tool_vendor/tool_vendor_attract.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "attract": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/tool_vendor/tool_vendor_turn_left.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "turn_left": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/tool_vendor/tool_vendor_idle_stand.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle_stand": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/tool_vendor/tool_vendor_walk_left.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk_left": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/tool_vendor/tool_vendor_walk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/tool_vendor/tool_vendor_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  }
+]

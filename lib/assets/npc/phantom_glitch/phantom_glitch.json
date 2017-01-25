@@ -1,0 +1,52 @@
+[
+  {
+    "image": "images/npc/phantom_glitch/phantom_glitch_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/phantom_glitch/phantom_glitch_transition.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "transition": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/phantom_glitch/phantom_glitch_walk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/phantom_glitch/phantom_glitch_giveHeart.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "giveHeart": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/phantom_glitch/phantom_glitch_appear.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "appear": {
+        "frames": []
+      }
+    }
+  }
+]

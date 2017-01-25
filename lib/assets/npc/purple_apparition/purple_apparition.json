@@ -1,0 +1,112 @@
+[
+  {
+    "image": "images/npc/purple_apparition/purple_apparition_talk_part1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk_part1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/purple_apparition/purple_apparition_idle1_part2.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle1_part2": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/purple_apparition/purple_apparition_idle1_part1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle1_part1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/purple_apparition/purple_apparition_talk_part2.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk_part2": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/purple_apparition/purple_apparition_idle0_part1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle0_part1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/purple_apparition/purple_apparition_idle2.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle2": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/purple_apparition/purple_apparition_fadeIn_part1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "fadeIn_part1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/purple_apparition/purple_apparition_fadeIn_part2.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "fadeIn_part2": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/purple_apparition/purple_apparition_fadeOut_part1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "fadeOut_part1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/purple_apparition/purple_apparition_fadeOut_part2.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "fadeOut_part2": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/purple_apparition/purple_apparition_idle0_part2.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle0_part2": {
+        "frames": []
+      }
+    }
+  }
+]

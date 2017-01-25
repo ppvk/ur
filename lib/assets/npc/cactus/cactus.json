@@ -1,0 +1,22 @@
+[
+  {
+    "image": "images/npc/cactus/cactus__x1_talk_png_1354833515.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_talk_png_1354833515": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/cactus/cactus__x1_idle_png_1354833520.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_idle_png_1354833520": {
+        "frames": []
+      }
+    }
+  }
+]

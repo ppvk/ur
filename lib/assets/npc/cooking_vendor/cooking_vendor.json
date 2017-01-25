@@ -1,0 +1,82 @@
+[
+  {
+    "image": "images/npc/cooking_vendor/cooking_vendor__x1_idle_stand_part2_png_1354831636.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_idle_stand_part2_png_1354831636": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/cooking_vendor/cooking_vendor__x1_attract_png_1354831634.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_attract_png_1354831634": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/cooking_vendor/cooking_vendor__x1_walk_right_end_png_1354831609.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_walk_right_end_png_1354831609": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/cooking_vendor/cooking_vendor__x1_walk_left_png_1354831611.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_walk_left_png_1354831611": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/cooking_vendor/cooking_vendor__x1_idle_stand_part1_png_1354831629.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_idle_stand_part1_png_1354831629": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/cooking_vendor/cooking_vendor__x1_walk_left_end_png_1354831613.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_walk_left_end_png_1354831613": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/cooking_vendor/cooking_vendor__x1_walk_right_png_1354831603.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_walk_right_png_1354831603": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/cooking_vendor/cooking_vendor__x1_talk_png_1354831616.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_talk_png_1354831616": {
+        "frames": []
+      }
+    }
+  }
+]

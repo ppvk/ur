@@ -1,0 +1,62 @@
+[
+  {
+    "image": "images/npc/bureaucrat/bureaucrat_idle1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/bureaucrat/bureaucrat_walk2.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk2": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/bureaucrat/bureaucrat_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/bureaucrat/bureaucrat_idle0.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle0": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/bureaucrat/bureaucrat_idle2.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle2": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/bureaucrat/bureaucrat_walk1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "walk1": {
+        "frames": []
+      }
+    }
+  }
+]

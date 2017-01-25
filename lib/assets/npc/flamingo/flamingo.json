@@ -1,0 +1,162 @@
+[
+  {
+    "image": "images/npc/flamingo/flamingo_turn.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "turn": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/flamingo/flamingo_flying.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "flying": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/flamingo/flamingo_takeOff.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "takeOff": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/flamingo/flamingo_idle3.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle3": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/flamingo/flamingo_idle0.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle0": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/flamingo/flamingo_talkShort.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talkShort": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/flamingo/flamingo_idle2.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle2": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/flamingo/flamingo_hoverTurn.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "hoverTurn": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/flamingo/flamingo_idle4.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle4": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/flamingo/flamingo_hoverTalkShort.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "hoverTalkShort": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/flamingo/flamingo_idle1.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle1": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/flamingo/flamingo_hover.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "hover": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/flamingo/flamingo_hoverTalkTall.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "hoverTalkTall": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/flamingo/flamingo_talkTall.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talkTall": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/flamingo/flamingo_hoverToFly.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "hoverToFly": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/flamingo/flamingo_flyToHover.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "flyToHover": {
+        "frames": []
+      }
+    }
+  }
+]

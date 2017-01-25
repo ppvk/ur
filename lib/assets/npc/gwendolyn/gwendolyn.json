@@ -1,0 +1,22 @@
+[
+  {
+    "image": "images/npc/gwendolyn/gwendolyn_talk.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "talk": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "images/npc/gwendolyn/gwendolyn_idle.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "idle": {
+        "frames": []
+      }
+    }
+  }
+]
