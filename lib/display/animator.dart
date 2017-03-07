@@ -1,7 +1,10 @@
 library render_objects;
 
 import 'dart:convert';
+import 'dart:async';
 import 'package:stagexl/stagexl.dart';
+
+import 'package:ur/display/bubble.dart';
 
 class Animator extends DisplayObjectContainer{
   String _animation_path;
@@ -111,5 +114,19 @@ class Glowable {
 
   stopGlowing() {
     filters.removeWhere((filter) => filter == _glow);
+  }
+}
+
+class Talkable {
+  say(String text) {
+    ChatBubble bubble = new ChatBubble(text);
+    Sprite container = this as Sprite;
+    container.addChild(bubble);
+    bubble.y = -container.height;
+    bubble.open();
+    new Future.delayed(new Duration(milliseconds: 1500)).then((_) async {
+      await bubble.close();
+      container.removeChild(bubble);
+    });
   }
 }

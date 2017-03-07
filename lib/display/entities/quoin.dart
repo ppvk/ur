@@ -38,7 +38,6 @@ class QuoinSprite extends Sprite {
   }
 
   load() async {
-
     await icon.load();
     icon.set(type);
     ring = new QuoinRing('+$value $type');

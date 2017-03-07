@@ -1,0 +1,22 @@
+[
+  {
+    "image": "packages/ur/assets/resource/dirt_pile_dirt_state/dirt_pile_dirt_state_x11_1_variant_dirt2_1_png_1354833757.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "x11_1_variant_dirt2_1_png_1354833757": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/dirt_pile_dirt_state/dirt_pile_dirt_state_x11_1_variant_dirt1_1_png_1354833756.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "x11_1_variant_dirt1_1_png_1354833756": {
+        "frames": []
+      }
+    }
+  }
+]

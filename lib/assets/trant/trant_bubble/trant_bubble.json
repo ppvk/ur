@@ -1,0 +1,112 @@
+[
+  {
+    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_6_seed_0_119919911_png_1354830279.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_f_cap_10_f_num_10_h_10_m_6_seed_0_119919911_png_1354830279": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_1_seed_0_119919911_png_1354830122.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_f_cap_10_f_num_10_h_10_m_1_seed_0_119919911_png_1354830122": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_8_seed_0_119919911_png_1354830289.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_f_cap_10_f_num_10_h_10_m_8_seed_0_119919911_png_1354830289": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_10_seed_0_119919911_png_1354830301.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_f_cap_10_f_num_10_h_10_m_10_seed_0_119919911_png_1354830301": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_3_seed_0_119919911_png_1354830125.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_f_cap_10_f_num_10_h_10_m_3_seed_0_119919911_png_1354830125": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_5_seed_0_119919911_png_1354830131.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_f_cap_10_f_num_10_h_10_m_5_seed_0_119919911_png_1354830131": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_2_seed_0_119919911_png_1354830123.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_f_cap_10_f_num_10_h_10_m_2_seed_0_119919911_png_1354830123": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble_dead__x1_1_png_1354832397.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "dead__x1_1_png_1354832397": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_7_seed_0_119919911_png_1354830283.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_f_cap_10_f_num_10_h_10_m_7_seed_0_119919911_png_1354830283": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_4_seed_0_119919911_png_1354830127.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_f_cap_10_f_num_10_h_10_m_4_seed_0_119919911_png_1354830127": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_9_seed_0_119919911_png_1354830295.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_f_cap_10_f_num_10_h_10_m_9_seed_0_119919911_png_1354830295": {
+        "frames": []
+      }
+    }
+  }
+]

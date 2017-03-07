@@ -1,7 +1,9 @@
 import 'package:stagexl/stagexl.dart';
 import 'package:ur/display/animator.dart';
 
-class Signpost extends Sprite {
+
+
+class Signpost extends Sprite with Talkable{
   Map data;
   Signpost(this.data);
 

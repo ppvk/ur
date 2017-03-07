@@ -1,0 +1,42 @@
+[
+  {
+    "image": "packages/ur/assets/resource/patch_dark/patch_dark__x1_dirty_png_1354831149.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_dirty_png_1354831149": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/patch_dark/patch_dark__x1_1_png_1354831151.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_1_png_1354831151": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/patch_dark/patch_dark__x1_dug_png_1354831150.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_dug_png_1354831150": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/patch_dark/patch_dark__x1_clean_png_1354831150.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_clean_png_1354831150": {
+        "frames": []
+      }
+    }
+  }
+]

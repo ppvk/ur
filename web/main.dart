@@ -7,6 +7,9 @@ import 'package:ur/display/ui/time.dart';
 import 'package:ur/display/streetstage.dart';
 import 'package:ur/display/animator.dart';
 
+import 'package:ur/display/entities/animal.dart';
+import 'package:ur/display/entities/quoin.dart';
+
 StreetStage stage = new StreetStage();
 
 main() async {
@@ -30,6 +33,23 @@ main() async {
 
   await Keyboard.init();
   loop();
+
+
+  // SPAWNING IN ENTITIES FOR TEST PURPOSES //
+  Animal batterfly = new Animal('batterfly');
+  await batterfly.load();
+  batterfly.animator.set('chew');
+  street.spawn(400, 200, batterfly, street.npcLayer);
+  batterfly.onMouseUp.listen((_) {
+    batterfly.say("Don't touch me.");
+  });
+
+
+  QuoinSprite quoin = new QuoinSprite('Img', 10);
+  await quoin.load();
+  street.spawn(400, 100, quoin, street.quoinLayer);
+
+
 }
 
 

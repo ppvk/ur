@@ -1,0 +1,65 @@
+[
+  {
+    "image": "packages/ur/assets/animal/batterfly/batterfly_profile.png",
+    "height": 5,
+    "width": 8,
+    "animations": {
+      "profile": {
+        "frames": [
+          [0, 40]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/animal/batterfly/batterfly_front_waiting.png",
+    "height": 5,
+    "width": 8,
+    "animations": {
+      "front_waiting": {
+        "frames": [
+          [0, 40]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/animal/batterfly/batterfly_front_turned.png",
+    "height": 5,
+    "width": 8,
+    "animations": {
+      "front_turned": {
+        "frames": [
+          [0, 40]
+        ]
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/animal/batterfly/batterfly_chew.png",
+    "height": 14,
+    "width": 9,
+    "animations": {
+      "chew": {
+        "frames": [
+          [0, 120]
+        ],
+        "loop": true
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/animal/batterfly/batterfly_profile_turned.png",
+    "height": 5,
+    "width": 8,
+    "animations": {
+      "profile_turned": {
+        "frames": [
+          [0, 40]
+        ]
+      }
+    }
+  }
+]

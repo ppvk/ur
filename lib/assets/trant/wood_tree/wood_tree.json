@@ -1,0 +1,42 @@
+[
+  {
+    "image": "packages/ur/assets/resource/wood_tree/wood_tree_maturity_6_variant_4_x6_1_png_1354833448.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "maturity_6_variant_4_x6_1_png_1354833448": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/wood_tree/wood_tree_maturity_6_variant_2_x6_1_png_1354833445.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "maturity_6_variant_2_x6_1_png_1354833445": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/wood_tree/wood_tree_maturity_6_variant_x6_1_1_png_1354833444.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "maturity_6_variant_x6_1_1_png_1354833444": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/wood_tree/wood_tree_maturity_6_variant_3_x6_1_png_1354833447.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "maturity_6_variant_3_x6_1_png_1354833447": {
+        "frames": []
+      }
+    }
+  }
+]

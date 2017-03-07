@@ -1,0 +1,22 @@
+[
+  {
+    "image": "packages/ur/assets/resource/rock_sparkly_2/rock_sparkly_2__x1_iconic_png_1354831469.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_iconic_png_1354831469": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/rock_sparkly_2/rock_sparkly_2__x1_5_x1_4_x1_3_x1_2_x1_1_png_1354831470.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_5_x1_4_x1_3_x1_2_x1_1_png_1354831470": {
+        "frames": []
+      }
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "image": "packages/ur/assets/resource/patch/patch_x1_seedling__seedling_png_1354829678.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "x1_seedling__seedling_png_1354829678": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/patch/patch__x1_dirty_png_1354829602.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_dirty_png_1354829602": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/patch/patch__x1_clean_png_1354829602.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_clean_png_1354829602": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/patch/patch__x1_1_png_1354829604.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_1_png_1354829604": {
+        "frames": []
+      }
+    }
+  },
+  {
+    "image": "packages/ur/assets/resource/patch/patch__x1_dug_png_1354829603.png",
+    "height": 0,
+    "width": 0,
+    "animations": {
+      "_x1_dug_png_1354829603": {
+        "frames": []
+      }
+    }
+  }
+]

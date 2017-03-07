@@ -3,7 +3,7 @@ import 'dart:convert';
 
 
 main() async {
-  Directory npcDirectory = new Directory('web/images/npc');
+  Directory npcDirectory = new Directory('web/images/treants');
 
   List<Directory> npcs = npcDirectory.listSync();
   for (Directory fse in npcs) {
@@ -19,7 +19,7 @@ main() async {
         .replaceAll('.png', '');
 
         animation.add({
-          'image': 'images/npc/' + folderName + '/' + anim.path.split('/').last,
+          'image': 'packages/ur/assets/resource/' + folderName + '/' + anim.path.split('/').last,
           'height': 0,
           'width': 0,
           'animations': {

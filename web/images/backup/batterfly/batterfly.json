@@ -1,6 +1,6 @@
 [
   {
-    "image": "images/npc/npc_batterfly/npc_batterfly_profile.png",
+    "image": "packages/ur/assets/animal/npc_batterfly/npc_batterfly_profile.png",
     "height": 5,
     "width": 8,
     "animations": {
@@ -13,7 +13,7 @@
     }
   },
   {
-    "image": "images/npc/npc_batterfly/npc_batterfly_front_waiting.png",
+    "image": "packages/ur/assets/animal/npc_batterfly/npc_batterfly_front_waiting.png",
     "height": 5,
     "width": 8,
     "animations": {
@@ -26,7 +26,7 @@
     }
   },
   {
-    "image": "images/npc/npc_batterfly/npc_batterfly_front_turned.png",
+    "image": "packages/ur/assets/animal/npc_batterfly/npc_batterfly_front_turned.png",
     "height": 5,
     "width": 8,
     "animations": {
@@ -38,7 +38,7 @@
     }
   },
   {
-    "image": "images/npc/npc_batterfly/npc_batterfly_chew.png",
+    "image": "packages/ur/assets/animal/npc_batterfly/npc_batterfly_chew.png",
     "height": 14,
     "width": 9,
     "animations": {
@@ -51,7 +51,7 @@
     }
   },
   {
-    "image": "images/npc/npc_batterfly/npc_batterfly_profile_turned.png",
+    "image": "packages/ur/assets/animal/npc_batterfly/npc_batterfly_profile_turned.png",
     "height": 5,
     "width": 8,
     "animations": {

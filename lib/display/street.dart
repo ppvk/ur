@@ -72,10 +72,10 @@ class Street extends DisplayObjectContainer with Animatable {
     }
   }
 
-  spawn(int x, int y, DisplayObject npc) async {
+  spawn(int x, int y, DisplayObject npc, Layer layer) async {
     npc.x = x + bounds.left;
     npc.y = y + bounds.top;
-    npcLayer.addChild(npc);
+    layer.addChild(npc);
   }
 
   advanceTime(_) async {
