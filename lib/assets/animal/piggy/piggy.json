@@ -1,72 +1,44 @@
 [
   {
-    "image": "images/npc/piggy/piggy__x1_too_much_nibble_png_1354829441.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_too_much_nibble_png_1354829441": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/piggy/piggy_walk.png",
+    "name": "walk",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/piggy/piggy__x1_nibble_png_1354829441.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_nibble_png_1354829441": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/piggy/piggy_look_screen.png",
+    "name": "look_screen",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/piggy/piggy__x1_rooked1_png_1354829442.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_rooked1_png_1354829442": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/piggy/piggy_too_much_nibble.png",
+    "name": "too_much_nibble",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/piggy/piggy__x1_walk_png_1354829432.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_walk_png_1354829432": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/piggy/piggy_rooked1.png",
+    "name": "rooked1",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/piggy/piggy__x1_look_screen_png_1354829434.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_look_screen_png_1354829434": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/piggy/piggy_nibble.png",
+    "name": "nibble",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/piggy/piggy__x1_rooked2_png_1354829443.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_rooked2_png_1354829443": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/piggy/piggy_rooked2.png",
+    "name": "rooked2",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/piggy/piggy__x1_chew_png_1354829433.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_chew_png_1354829433": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/piggy/piggy_chew.png",
+    "name": "chew",
+    "frames": 1,
+    "loops": true
   }
 ]

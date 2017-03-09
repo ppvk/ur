@@ -1,32 +1,20 @@
 [
   {
-    "image": "images/npc/firefly/firefly_smallPath.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "smallPath": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/firefly/firefly_smallPath.png",
+    "name": "smallPath",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/firefly/firefly_fullPath.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "fullPath": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/firefly/firefly_fullPath.png",
+    "name": "fullPath",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/firefly/firefly_halfPath.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "halfPath": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/firefly/firefly_halfPath.png",
+    "name": "halfPath",
+    "frames": 1,
+    "loops": true
   }
 ]

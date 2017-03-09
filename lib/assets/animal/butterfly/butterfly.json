@@ -1,92 +1,56 @@
 [
   {
-    "image": "images/npc/butterfly/butterfly__x1_rest-rooked_png_1354829530.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_rest-rooked_png_1354829530": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/butterfly/butterfly_fly-angle1.png",
+    "name": "fly-angle1",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/butterfly/butterfly__x1_fly-side_png_1354829525.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_fly-side_png_1354829525": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/butterfly/butterfly_fly-top.png",
+    "name": "fly-top",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/butterfly/butterfly__x1_rest-top_png_1354829532.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_rest-top_png_1354829532": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/butterfly/butterfly_fly-rooked.png",
+    "name": "fly-rooked",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/butterfly/butterfly__x1_fly-angle2_png_1354829527.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_fly-angle2_png_1354829527": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/butterfly/butterfly_rest-angle1.png",
+    "name": "rest-angle1",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/butterfly/butterfly__x1_fly-rooked_png_1354829525.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_fly-rooked_png_1354829525": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/butterfly/butterfly_rest-angle2.png",
+    "name": "rest-angle2",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/butterfly/butterfly__x1_fly-top_png_1354829528.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_fly-top_png_1354829528": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/butterfly/butterfly_rest-rooked.png",
+    "name": "rest-rooked",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/butterfly/butterfly__x1_rest-angle2_png_1354829531.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_rest-angle2_png_1354829531": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/butterfly/butterfly_rest-top.png",
+    "name": "rest-top",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/butterfly/butterfly__x1_rest-angle1_png_1354829530.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_rest-angle1_png_1354829530": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/butterfly/butterfly_fly-angle2.png",
+    "name": "fly-angle2",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/butterfly/butterfly__x1_fly-angle1_png_1354829526.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_fly-angle1_png_1354829526": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/butterfly/butterfly_fly-side.png",
+    "name": "fly-side",
+    "frames": 1,
+    "loops": true
   }
 ]

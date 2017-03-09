@@ -36,18 +36,30 @@ main() async {
 
 
   // SPAWNING IN ENTITIES FOR TEST PURPOSES //
-  Animal batterfly = new Animal('batterfly');
-  await batterfly.load();
-  batterfly.animator.set('chew');
-  street.spawn(400, 200, batterfly, street.npcLayer);
-  batterfly.onMouseUp.listen((_) {
-    batterfly.say("Don't touch me.");
-  });
-
 
   QuoinSprite quoin = new QuoinSprite('Img', 10);
   await quoin.load();
-  street.spawn(400, 100, quoin, street.quoinLayer);
+  street.spawn(150, 100, quoin, street.quoinLayer);
+  
+  Animal batterfly = new Animal('batterfly');
+  await batterfly.load();
+  batterfly.animator.set('chew');
+  street.spawn(150, 200, batterfly, street.npcLayer);
+
+  Animal butterfly = new Animal('butterfly');
+  await butterfly.load();
+  butterfly.animator.set('fly-top');
+  street.spawn(150, 300, butterfly, street.npcLayer);
+
+  Animal chicken = new Animal('chicken');
+  await chicken.load();
+  chicken.animator.set('walk');
+  street.spawn(150, 400, chicken, street.npcLayer);
+
+  Animal firefly = new Animal('firefly');
+  await firefly.load();
+  firefly.animator.set('fullPath');
+  street.spawn(150, 500, firefly, street.npcLayer);
 
 
 }

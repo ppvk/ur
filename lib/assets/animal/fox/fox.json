@@ -1,102 +1,62 @@
 [
   {
-    "image": "images/npc/fox/fox_eatEnd.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "eatEnd": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/fox/fox_eatEnd.png",
+    "name": "eatEnd",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/fox/fox_brushed.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "brushed": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/fox/fox_brushed.png",
+    "name": "brushed",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/fox/fox_jump.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "jump": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/fox/fox_jump.png",
+    "name": "jump",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/fox/fox_eat.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "eat": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/fox/fox_eat.png",
+    "name": "eat",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/fox/fox_eatStart.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "eatStart": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/fox/fox_eatStart.png",
+    "name": "eatStart",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/fox/fox_still.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "still": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/fox/fox_still.png",
+    "name": "still",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/fox/fox_taunt.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "taunt": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/fox/fox_taunt.png",
+    "name": "taunt",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/fox/fox_run.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "run": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/fox/fox_run.png",
+    "name": "run",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/fox/fox_pause.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "pause": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/fox/fox_pause.png",
+    "name": "pause",
+    "frames": 1,
+    "loops": true
   },
   {
-    "image": "images/npc/fox/fox_walk.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "walk": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/animal/fox/fox_walk.png",
+    "name": "walk",
+    "frames": 1,
+    "loops": true
   }
 ]

@@ -1,0 +1,176 @@
+[
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_1idle.png",
+    "name": "1idle",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_2sleepStart.png",
+    "name": "2sleepStart",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_3happy.png",
+    "name": "3happy",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_3chew.png",
+    "name": "3chew",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_2jumpAntic.png",
+    "name": "2jumpAntic",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_3jump.png",
+    "name": "3jump",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_1roll.png",
+    "name": "1roll",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_1rollStart.png",
+    "name": "1rollStart",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_3sleepStart.png",
+    "name": "3sleepStart",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_3appear.png",
+    "name": "3appear",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_3jumpAntic.png",
+    "name": "3jumpAntic",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_2blink.png",
+    "name": "2blink",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_2idle.png",
+    "name": "2idle",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_2sleep.png",
+    "name": "2sleep",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_3fly.png",
+    "name": "3fly",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_3hitBall.png",
+    "name": "3hitBall",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_3sleep.png",
+    "name": "3sleep",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_2jump.png",
+    "name": "2jump",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_2fly.png",
+    "name": "2fly",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_3disappear.png",
+    "name": "3disappear",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_3idle.png",
+    "name": "3idle",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_3sad.png",
+    "name": "3sad",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_1jumpAntic.png",
+    "name": "1jumpAntic",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_2hitBall.png",
+    "name": "2hitBall",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_1sleepStart.png",
+    "name": "1sleepStart",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_1blink.png",
+    "name": "1blink",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_3blink.png",
+    "name": "3blink",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_1jump.png",
+    "name": "1jump",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/kitty/kitty_1sleep.png",
+    "name": "1sleep",
+    "frames": 1,
+    "loops": true
+  }
+]

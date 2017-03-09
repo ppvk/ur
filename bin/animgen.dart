@@ -1,9 +1,8 @@
 import 'dart:io';
 import 'dart:convert';
 
-
 main() async {
-  Directory npcDirectory = new Directory('web/images/treants');
+  Directory npcDirectory = new Directory('lib/assets/animal');
 
   List<Directory> npcs = npcDirectory.listSync();
   for (Directory fse in npcs) {
@@ -18,16 +17,14 @@ main() async {
         .replaceAll(folderName + '_', '')
         .replaceAll('.png', '');
 
-        animation.add({
-          'image': 'packages/ur/assets/resource/' + folderName + '/' + anim.path.split('/').last,
-          'height': 0,
-          'width': 0,
-          'animations': {
-            animName: {
-              'frames': []
-            }
+        animation.add(
+          {
+            'image': 'packages/ur/assets/animal/' + folderName + '/' + anim.path.split('/').last,
+            'name': animName,
+            'frames': 1,
+            'loops': true
           }
-        });
+      );
     }
     JsonEncoder encoder = new JsonEncoder.withIndent('  ');
     String result = encoder.convert(animation);

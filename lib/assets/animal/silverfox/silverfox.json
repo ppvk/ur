@@ -1,0 +1,26 @@
+[
+  {
+    "image": "packages/ur/assets/animal/silverfox/silverfox_eatStart.png",
+    "name": "eatStart",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/silverfox/silverfox_eatEnd.png",
+    "name": "eatEnd",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/silverfox/silverfox_run.png",
+    "name": "run",
+    "frames": 1,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/silverfox/silverfox_still.png",
+    "name": "still",
+    "frames": 1,
+    "loops": true
+  }
+]
