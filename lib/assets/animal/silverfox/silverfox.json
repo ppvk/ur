@@ -2,25 +2,61 @@
   {
     "image": "packages/ur/assets/animal/silverfox/silverfox_eatStart.png",
     "name": "eatStart",
-    "frames": 1,
-    "loops": true
+    "frames": 10,
+    "loops": false
   },
   {
     "image": "packages/ur/assets/animal/silverfox/silverfox_eatEnd.png",
     "name": "eatEnd",
-    "frames": 1,
-    "loops": true
+    "frames": 20,
+    "loops": false
   },
   {
     "image": "packages/ur/assets/animal/silverfox/silverfox_run.png",
     "name": "run",
-    "frames": 1,
+    "frames": 12,
     "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/silverfox/silverfox_eat.png",
+    "name": "eat",
+    "frames": 20,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/silverfox/silverfox_walk.png",
+    "name": "walk",
+    "frames": 24,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/silverfox/silverfox_jump.png",
+    "name": "jump",
+    "frames": 28,
+    "loops": false
+  },
+  {
+    "image": "packages/ur/assets/animal/silverfox/silverfox_pause.png",
+    "name": "pause",
+    "frames": 56,
+    "loops": false
   },
   {
     "image": "packages/ur/assets/animal/silverfox/silverfox_still.png",
     "name": "still",
     "frames": 1,
     "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/silverfox/silverfox_brushed.png",
+    "name": "brushed",
+    "frames": 2,
+    "loops": true
+  },
+  {
+    "image": "packages/ur/assets/animal/silverfox/silverfox_taunt.png",
+    "name": "taunt",
+    "frames": 40,
+    "loops": false
   }
 ]

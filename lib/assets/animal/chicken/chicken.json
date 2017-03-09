@@ -2,56 +2,56 @@
   {
     "image": "packages/ur/assets/animal/chicken/chicken_land_on_ladder.png",
     "name": "land_on_ladder",
-    "frames": 1,
-    "loops": true
+    "frames": 26,
+    "loops": false
   },
   {
     "image": "packages/ur/assets/animal/chicken/chicken_pecking_twice.png",
     "name": "pecking_twice",
-    "frames": 1,
-    "loops": true
+    "frames": 40,
+    "loops": false
   },
   {
     "image": "packages/ur/assets/animal/chicken/chicken_pause.png",
     "name": "pause",
-    "frames": 1,
-    "loops": true
+    "frames": 131,
+    "loops": false
   },
   {
     "image": "packages/ur/assets/animal/chicken/chicken_walk.png",
     "name": "walk",
-    "frames": 1,
+    "frames": 24,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/chicken/chicken_verb.png",
     "name": "verb",
-    "frames": 1,
-    "loops": true
+    "frames": 55,
+    "loops": false
   },
   {
     "image": "packages/ur/assets/animal/chicken/chicken_pecking_once.png",
     "name": "pecking_once",
-    "frames": 1,
-    "loops": true
+    "frames": 32,
+    "loops": false
   },
   {
     "image": "packages/ur/assets/animal/chicken/chicken_flying.png",
     "name": "flying",
-    "frames": 1,
+    "frames": 42,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/chicken/chicken_idle1.png",
     "name": "idle1",
-    "frames": 1,
-    "loops": true
+    "frames": 67,
+    "loops": false
   },
   {
     "image": "packages/ur/assets/animal/chicken/chicken_idle3.png",
     "name": "idle3",
-    "frames": 1,
-    "loops": true
+    "frames": 86,
+    "loops": false
   },
   {
     "image": "packages/ur/assets/animal/chicken/chicken_rooked1.png",
@@ -62,49 +62,49 @@
   {
     "image": "packages/ur/assets/animal/chicken/chicken_rooked2.png",
     "name": "rooked2",
-    "frames": 1,
-    "loops": true
+    "frames": 27,
+    "loops": false
   },
   {
     "image": "packages/ur/assets/animal/chicken/chicken_flying_no_feathers.png",
     "name": "flying_no_feathers",
-    "frames": 1,
+    "frames": 42,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/chicken/chicken_fall.png",
     "name": "fall",
-    "frames": 1,
+    "frames": 25,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/chicken/chicken_sit.png",
     "name": "sit",
-    "frames": 1,
-    "loops": true
+    "frames": 20,
+    "loops": false
   },
   {
     "image": "packages/ur/assets/animal/chicken/chicken_idle2.png",
     "name": "idle2",
-    "frames": 1,
-    "loops": true
+    "frames": 47,
+    "loops": false
   },
   {
     "image": "packages/ur/assets/animal/chicken/chicken_flying_back.png",
     "name": "flying_back",
-    "frames": 1,
+    "frames": 17,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/chicken/chicken_land.png",
     "name": "land",
-    "frames": 1,
-    "loops": true
+    "frames": 25,
+    "loops": false
   },
   {
     "image": "packages/ur/assets/animal/chicken/chicken_incubate.png",
     "name": "incubate",
-    "frames": 1,
-    "loops": true
+    "frames": 190,
+    "loops": false
   }
 ]

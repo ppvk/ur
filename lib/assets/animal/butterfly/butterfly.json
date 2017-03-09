@@ -2,31 +2,31 @@
   {
     "image": "packages/ur/assets/animal/butterfly/butterfly_fly-angle1.png",
     "name": "fly-angle1",
-    "frames": 1,
+    "frames": 34,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/butterfly/butterfly_fly-top.png",
     "name": "fly-top",
-    "frames": 1,
+    "frames": 87,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/butterfly/butterfly_fly-rooked.png",
     "name": "fly-rooked",
-    "frames": 1,
+    "frames": 14,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/butterfly/butterfly_rest-angle1.png",
     "name": "rest-angle1",
-    "frames": 1,
+    "frames": 6,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/butterfly/butterfly_rest-angle2.png",
     "name": "rest-angle2",
-    "frames": 1,
+    "frames": 10,
     "loops": true
   },
   {
@@ -38,19 +38,19 @@
   {
     "image": "packages/ur/assets/animal/butterfly/butterfly_rest-top.png",
     "name": "rest-top",
-    "frames": 1,
+    "frames": 42,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/butterfly/butterfly_fly-angle2.png",
     "name": "fly-angle2",
-    "frames": 1,
+    "frames": 10,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/butterfly/butterfly_fly-side.png",
     "name": "fly-side",
-    "frames": 1,
+    "frames": 84,
     "loops": true
   }
 ]

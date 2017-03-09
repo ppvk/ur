@@ -2,19 +2,19 @@
   {
     "image": "packages/ur/assets/animal/firefly/firefly_smallPath.png",
     "name": "smallPath",
-    "frames": 1,
+    "frames": 20,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/firefly/firefly_fullPath.png",
     "name": "fullPath",
-    "frames": 1,
+    "frames": 90,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/firefly/firefly_halfPath.png",
     "name": "halfPath",
-    "frames": 1,
+    "frames": 40,
     "loops": true
   }
 ]

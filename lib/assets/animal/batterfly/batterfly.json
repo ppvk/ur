@@ -2,31 +2,31 @@
   {
     "image": "packages/ur/assets/animal/batterfly/batterfly_front_waiting.png",
     "name": "front_waiting",
-    "frames": 1,
+    "frames": 40,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/batterfly/batterfly_profile.png",
     "name": "profile",
-    "frames": 1,
+    "frames": 40,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/batterfly/batterfly_front_turned.png",
     "name": "front_turned",
-    "frames": 1,
+    "frames": 40,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/batterfly/batterfly_profile_turned.png",
     "name": "profile_turned",
-    "frames": 1,
+    "frames": 40,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/batterfly/batterfly_chew.png",
     "name": "chew",
-    "frames": 1,
-    "loops": true
+    "frames": 120,
+    "loops": false
   }
 ]

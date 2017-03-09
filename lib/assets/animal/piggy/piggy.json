@@ -2,43 +2,43 @@
   {
     "image": "packages/ur/assets/animal/piggy/piggy_walk.png",
     "name": "walk",
-    "frames": 1,
+    "frames": 24,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/piggy/piggy_look_screen.png",
     "name": "look_screen",
-    "frames": 1,
-    "loops": true
+    "frames": 48,
+    "loops": false
   },
   {
     "image": "packages/ur/assets/animal/piggy/piggy_too_much_nibble.png",
     "name": "too_much_nibble",
-    "frames": 1,
-    "loops": true
+    "frames": 65,
+    "loops": false
   },
   {
     "image": "packages/ur/assets/animal/piggy/piggy_rooked1.png",
     "name": "rooked1",
-    "frames": 1,
+    "frames": 10,
     "loops": true
   },
   {
     "image": "packages/ur/assets/animal/piggy/piggy_nibble.png",
     "name": "nibble",
-    "frames": 1,
-    "loops": true
+    "frames": 60,
+    "loops": false
   },
   {
     "image": "packages/ur/assets/animal/piggy/piggy_rooked2.png",
     "name": "rooked2",
-    "frames": 1,
-    "loops": true
+    "frames": 24,
+    "loops": false
   },
   {
     "image": "packages/ur/assets/animal/piggy/piggy_chew.png",
     "name": "chew",
-    "frames": 1,
+    "frames": 53,
     "loops": true
   }
 ]
