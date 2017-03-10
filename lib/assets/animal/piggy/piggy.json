@@ -1,44 +1,72 @@
 [
   {
-    "image": "packages/ur/assets/animal/piggy/piggy_walk.png",
-    "name": "walk",
-    "frames": 24,
-    "loops": true
+    "image": "packages/ur/assets/animal/piggy/piggy_chew.png",
+    "name": "chew",
+    "frames": 53,
+    "loops": true,
+    "frame": {
+      "width": 88,
+      "height": 62
+    }
   },
   {
     "image": "packages/ur/assets/animal/piggy/piggy_look_screen.png",
     "name": "look_screen",
     "frames": 48,
-    "loops": false
-  },
-  {
-    "image": "packages/ur/assets/animal/piggy/piggy_too_much_nibble.png",
-    "name": "too_much_nibble",
-    "frames": 65,
-    "loops": false
-  },
-  {
-    "image": "packages/ur/assets/animal/piggy/piggy_rooked1.png",
-    "name": "rooked1",
-    "frames": 10,
-    "loops": true
+    "loops": false,
+    "frame": {
+      "width": 88,
+      "height": 62
+    }
   },
   {
     "image": "packages/ur/assets/animal/piggy/piggy_nibble.png",
     "name": "nibble",
     "frames": 60,
-    "loops": false
+    "loops": false,
+    "frame": {
+      "width": 88,
+      "height": 62
+    }
+  },
+  {
+    "image": "packages/ur/assets/animal/piggy/piggy_rooked1.png",
+    "name": "rooked1",
+    "frames": 10,
+    "loops": true,
+    "frame": {
+      "width": 88,
+      "height": 62
+    }
   },
   {
     "image": "packages/ur/assets/animal/piggy/piggy_rooked2.png",
     "name": "rooked2",
     "frames": 24,
-    "loops": false
+    "loops": false,
+    "frame": {
+      "width": 88,
+      "height": 62
+    }
   },
   {
-    "image": "packages/ur/assets/animal/piggy/piggy_chew.png",
-    "name": "chew",
-    "frames": 53,
-    "loops": true
+    "image": "packages/ur/assets/animal/piggy/piggy_too_much_nibble.png",
+    "name": "too_much_nibble",
+    "frames": 65,
+    "loops": false,
+    "frame": {
+      "width": 88,
+      "height": 62
+    }
+  },
+  {
+    "image": "packages/ur/assets/animal/piggy/piggy_walk.png",
+    "name": "walk",
+    "frames": 24,
+    "loops": true,
+    "frame": {
+      "width": 88,
+      "height": 62
+    }
   }
 ]

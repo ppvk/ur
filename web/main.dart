@@ -37,31 +37,45 @@ main() async {
 
   // SPAWNING IN ENTITIES FOR TEST PURPOSES //
 
-  QuoinSprite quoin = new QuoinSprite('Img', 10);
+  QuoinSprite quoin = new QuoinSprite('mood', 10);
   await quoin.load();
   street.spawn(150, 100, quoin, street.quoinLayer);
-  
-  Animal batterfly = new Animal('batterfly');
+
+  DemoAnimal batterfly = new DemoAnimal('batterfly');
   await batterfly.load();
-  batterfly.animator.set('chew');
   street.spawn(150, 200, batterfly, street.npcLayer);
 
-  Animal butterfly = new Animal('butterfly');
+  DemoAnimal butterfly = new DemoAnimal('butterfly');
   await butterfly.load();
-  butterfly.animator.set('fly-top');
   street.spawn(150, 300, butterfly, street.npcLayer);
 
-  Animal chicken = new Animal('chicken');
+  DemoAnimal chicken = new DemoAnimal('chicken');
   await chicken.load();
-  chicken.animator.set('walk');
   street.spawn(150, 400, chicken, street.npcLayer);
 
-  Animal firefly = new Animal('firefly');
+  DemoAnimal firefly = new DemoAnimal('firefly');
   await firefly.load();
-  firefly.animator.set('fullPath');
   street.spawn(150, 500, firefly, street.npcLayer);
 
+  DemoAnimal fox = new DemoAnimal('fox');
+  await fox.load();
+  street.spawn(300, 200, fox, street.npcLayer);
 
+  DemoAnimal kitty = new DemoAnimal('kitty');
+  await kitty.load();
+  street.spawn(300, 300, kitty, street.npcLayer);
+
+  DemoAnimal piggy = new DemoAnimal('piggy');
+  await piggy.load();
+  street.spawn(300, 400, piggy, street.npcLayer);
+
+  DemoAnimal salmon = new DemoAnimal('salmon');
+  await salmon.load();
+  street.spawn(300, 500, salmon, street.npcLayer);
+
+  DemoAnimal silverFox = new DemoAnimal('silverfox');
+  await silverFox.load();
+  street.spawn(450, 200, silverFox, street.npcLayer);
 }
 
 

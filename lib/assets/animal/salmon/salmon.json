@@ -3,36 +3,60 @@
     "image": "packages/ur/assets/animal/salmon/salmon_swimRight.png",
     "name": "swimRight",
     "frames": 22,
-    "loops": true
-  },
-  {
-    "image": "packages/ur/assets/animal/salmon/salmon_turnRight.png",
-    "name": "turnRight",
-    "frames": 11,
-    "loops": false
-  },
-  {
-    "image": "packages/ur/assets/animal/salmon/salmon_swimRightUp15.png",
-    "name": "swimRightUp15",
-    "frames": 22,
-    "loops": true
+    "loops": true,
+    "frame": {
+      "width": 59,
+      "height": 37
+    }
   },
   {
     "image": "packages/ur/assets/animal/salmon/salmon_swimRightDown15.png",
     "name": "swimRightDown15",
     "frames": 22,
-    "loops": true
-  },
-  {
-    "image": "packages/ur/assets/animal/salmon/salmon_swimRightUp30.png",
-    "name": "swimRightUp30",
-    "frames": 22,
-    "loops": true
+    "loops": true,
+    "frame": {
+      "width": 59,
+      "height": 37
+    }
   },
   {
     "image": "packages/ur/assets/animal/salmon/salmon_swimRightDown30.png",
     "name": "swimRightDown30",
     "frames": 22,
-    "loops": true
+    "loops": true,
+    "frame": {
+      "width": 59,
+      "height": 37
+    }
+  },
+  {
+    "image": "packages/ur/assets/animal/salmon/salmon_swimRightUp15.png",
+    "name": "swimRightUp15",
+    "frames": 22,
+    "loops": true,
+    "frame": {
+      "width": 59,
+      "height": 37
+    }
+  },
+  {
+    "image": "packages/ur/assets/animal/salmon/salmon_swimRightUp30.png",
+    "name": "swimRightUp30",
+    "frames": 22,
+    "loops": true,
+    "frame": {
+      "width": 59,
+      "height": 37
+    }
+  },
+  {
+    "image": "packages/ur/assets/animal/salmon/salmon_turnRight.png",
+    "name": "turnRight",
+    "frames": 11,
+    "loops": false,
+    "frame": {
+      "width": 59,
+      "height": 37
+    }
   }
 ]

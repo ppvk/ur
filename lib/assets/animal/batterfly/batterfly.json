@@ -1,32 +1,52 @@
 [
   {
-    "image": "packages/ur/assets/animal/batterfly/batterfly_front_waiting.png",
-    "name": "front_waiting",
-    "frames": 40,
-    "loops": true
-  },
-  {
-    "image": "packages/ur/assets/animal/batterfly/batterfly_profile.png",
-    "name": "profile",
-    "frames": 40,
-    "loops": true
+    "image": "packages/ur/assets/animal/batterfly/batterfly_chew.png",
+    "name": "chew",
+    "frames": 120,
+    "loops": false,
+    "frame": {
+      "width": 111,
+      "height": 96
+    }
   },
   {
     "image": "packages/ur/assets/animal/batterfly/batterfly_front_turned.png",
     "name": "front_turned",
     "frames": 40,
-    "loops": true
+    "loops": true,
+    "frame": {
+      "width": 111,
+      "height": 96
+    }
+  },
+  {
+    "image": "packages/ur/assets/animal/batterfly/batterfly_front_waiting.png",
+    "name": "front_waiting",
+    "frames": 40,
+    "loops": true,
+    "frame": {
+      "width": 111,
+      "height": 96
+    }
+  },
+  {
+    "image": "packages/ur/assets/animal/batterfly/batterfly_profile.png",
+    "name": "profile",
+    "frames": 40,
+    "loops": true,
+    "frame": {
+      "width": 111,
+      "height": 96
+    }
   },
   {
     "image": "packages/ur/assets/animal/batterfly/batterfly_profile_turned.png",
     "name": "profile_turned",
     "frames": 40,
-    "loops": true
-  },
-  {
-    "image": "packages/ur/assets/animal/batterfly/batterfly_chew.png",
-    "name": "chew",
-    "frames": 120,
-    "loops": false
+    "loops": true,
+    "frame": {
+      "width": 111,
+      "height": 96
+    }
   }
 ]

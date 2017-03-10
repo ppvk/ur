@@ -1,20 +1,32 @@
 [
   {
-    "image": "packages/ur/assets/animal/firefly/firefly_smallPath.png",
-    "name": "smallPath",
-    "frames": 20,
-    "loops": true
-  },
-  {
     "image": "packages/ur/assets/animal/firefly/firefly_fullPath.png",
     "name": "fullPath",
-    "frames": 90,
-    "loops": true
+    "frames": 89,
+    "loops": true,
+    "frame": {
+      "width": 87,
+      "height": 40
+    }
   },
   {
     "image": "packages/ur/assets/animal/firefly/firefly_halfPath.png",
     "name": "halfPath",
     "frames": 40,
-    "loops": true
+    "loops": true,
+    "frame": {
+      "width": 87,
+      "height": 40
+    }
+  },
+  {
+    "image": "packages/ur/assets/animal/firefly/firefly_smallPath.png",
+    "name": "smallPath",
+    "frames": 20,
+    "loops": true,
+    "frame": {
+      "width": 87,
+      "height": 40
+    }
   }
 ]

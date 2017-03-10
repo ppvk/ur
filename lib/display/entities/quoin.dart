@@ -7,7 +7,7 @@ class QuoinSprite extends Sprite {
   Animator icon = new Animator('packages/ur/assets/quoin/quoin.json');
   QuoinRing ring;
   int value = 1;
-  String type = 'None';
+  String type = 'none';
 
   QuoinSprite(this.type, this.value) {
     onMouseClick.listen((_) {
@@ -39,6 +39,7 @@ class QuoinSprite extends Sprite {
 
   load() async {
     await icon.load();
+    icon.speed = 0.8;
     icon.set(type);
     ring = new QuoinRing('+$value $type');
     addChild(ring);

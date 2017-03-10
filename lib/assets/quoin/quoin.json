@@ -1,56 +1,53 @@
 [
   {
     "image": "packages/ur/assets/quoin/quoin.png",
-    "height": 8,
-    "width": 24,
+    "name": "quoin",
+    "frame": {
+      "width": 40,
+      "height": 45
+    },
+    "loops": true,
+
     "animations": {
-      "Img": {
-        "frames": [
-          [0, 23]
-        ],
-        "loop": true
+      "img": {
+        "start": 0,
+        "end": 23,
+        "loops": true
       },
-      "Mood": {
-        "frames": [
-          [24, 47]
-        ],
-        "loop": true
+      "mood": {
+        "start": 24,
+        "end": 47,
+        "loops": true
       },
-      "Energy": {
-        "frames": [
-          [48, 71]
-        ],
-        "loop": true
+      "energy": {
+        "start": 48,
+        "end": 71,
+        "loops": true
       },
-      "Currant": {
-        "frames": [
-          [72, 95]
-        ],
-        "loop": true
+      "currant": {
+        "start": 72,
+        "end": 95,
+        "loops": true
       },
-      "Mystery": {
-        "frames": [
-          [96, 119]
-        ],
-        "loop": true
+      "mystery": {
+        "start": 96,
+        "end": 119,
+        "loops": true
       },
-      "Favor": {
-        "frames": [
-          [120, 143]
-        ],
-        "loop": true
+      "favor": {
+        "start": 120,
+        "end": 143,
+        "loops": true
       },
-      "Time": {
-        "frames": [
-          [144, 167]
-        ],
-        "loop": true
+      "time": {
+        "start": 144,
+        "end": 167,
+        "loops": true
       },
-      "Quarazy": {
-        "frames": [
-          [168, 191]
-        ],
-        "loop": true
+      "quarazy": {
+        "start": 168,
+        "end": 191,
+        "loops": true
       }
     }
   }
