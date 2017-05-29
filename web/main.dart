@@ -76,6 +76,12 @@ main() async {
   DemoAnimal silverFox = new DemoAnimal('silverfox');
   await silverFox.load();
   street.spawn(450, 200, silverFox, street.npcLayer);
+
+
+
+
+
+  
 }
 
 
