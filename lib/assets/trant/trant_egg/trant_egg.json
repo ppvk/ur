@@ -1,112 +1,57 @@
 [
   {
-    "image": "packages/ur/assets/resource/trant_egg/trant_egg__f_cap_10_f_num_10_h_10_m_2_seed_0_11191191_png_1354829613.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_2_seed_0_11191191_png_1354829613": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_egg/trant_egg_3.png",
+    "name": "3",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_egg/trant_egg_dead__x1_1_png_1354832398.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "dead__x1_1_png_1354832398": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_egg/trant_egg_5.png",
+    "name": "5",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_egg/trant_egg__f_cap_10_f_num_10_h_10_m_1_seed_0_11191191_png_1354829612.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_1_seed_0_11191191_png_1354829612": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_egg/trant_egg_8.png",
+    "name": "8",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_egg/trant_egg__f_cap_10_f_num_10_h_10_m_6_seed_0_11191191_png_1354829621.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_6_seed_0_11191191_png_1354829621": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_egg/trant_egg_4.png",
+    "name": "4",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_egg/trant_egg__f_cap_10_f_num_10_h_10_m_8_seed_0_11191191_png_1354829628.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_8_seed_0_11191191_png_1354829628": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_egg/trant_egg_6.png",
+    "name": "6",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_egg/trant_egg__f_cap_10_f_num_10_h_10_m_7_seed_0_11191191_png_1354829624.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_7_seed_0_11191191_png_1354829624": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_egg/trant_egg_2.png",
+    "name": "2",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_egg/trant_egg__f_cap_10_f_num_10_h_10_m_10_seed_0_11191191_png_1354829638.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_10_seed_0_11191191_png_1354829638": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_egg/trant_egg_10.png",
+    "name": "10",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_egg/trant_egg__f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_9_seed_0_11191191_png_1354829632": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_egg/trant_egg_1.png",
+    "name": "1",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_egg/trant_egg__f_cap_10_f_num_10_h_10_m_4_seed_0_11191191_png_1354829616.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_4_seed_0_11191191_png_1354829616": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_egg/trant_egg_dead.png",
+    "name": "dead",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_egg/trant_egg__f_cap_10_f_num_10_h_10_m_3_seed_0_11191191_png_1354829614.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_3_seed_0_11191191_png_1354829614": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_egg/trant_egg_7.png",
+    "name": "7",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_egg/trant_egg__f_cap_10_f_num_10_h_10_m_5_seed_0_11191191_png_1354829618.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_5_seed_0_11191191_png_1354829618": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_egg/trant_egg_9.png",
+    "name": "9",
+    "frames": 1
   }
 ]

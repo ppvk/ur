@@ -1,102 +1,101 @@
 [
   {
-    "image": "packages/ur/assets/resource/trant_bean/trant_bean__f_cap_10_f_num_10_h_10_m_10_seed_0_191991191_png_1354829669.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_10_seed_0_191991191_png_1354829669": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bean/trant_bean_1.png",
+    "name": "1",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 2
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bean/trant_bean__f_cap_10_f_num_10_h_10_m_4_seed_0_191991191_png_1354829645.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_4_seed_0_191991191_png_1354829645": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bean/trant_bean_10.png",
+    "name": "10",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 14
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bean/trant_bean__f_cap_10_f_num_10_h_10_m_3_seed_0_191991191_png_1354829643.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_3_seed_0_191991191_png_1354829643": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bean/trant_bean_2.png",
+    "name": "2",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 2
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bean/trant_bean__f_cap_10_f_num_10_h_10_m_5_seed_0_191991191_png_1354829648.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_5_seed_0_191991191_png_1354829648": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bean/trant_bean_3.png",
+    "name": "3",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 2
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bean/trant_bean__f_cap_10_f_num_10_h_10_m_2_seed_0_191991191_png_1354829642.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_2_seed_0_191991191_png_1354829642": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bean/trant_bean_4.png",
+    "name": "4",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 9
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bean/trant_bean__f_cap_10_f_num_10_h_10_m_6_seed_0_191991191_png_1354829652.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_6_seed_0_191991191_png_1354829652": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bean/trant_bean_5.png",
+    "name": "5",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 11
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bean/trant_bean__f_cap_10_f_num_10_h_10_m_1_seed_0_191991191_png_1354829640.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_1_seed_0_191991191_png_1354829640": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bean/trant_bean_6.png",
+    "name": "6",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 12
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bean/trant_bean__f_cap_10_f_num_10_h_10_m_8_seed_0_191991191_png_1354829659.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_8_seed_0_191991191_png_1354829659": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bean/trant_bean_7.png",
+    "name": "7",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 12
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bean/trant_bean__f_cap_10_f_num_10_h_10_m_9_seed_0_191991191_png_1354829664.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_9_seed_0_191991191_png_1354829664": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bean/trant_bean_8.png",
+    "name": "8",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 13
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bean/trant_bean__f_cap_10_f_num_10_h_10_m_7_seed_0_191991191_png_1354829655.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_7_seed_0_191991191_png_1354829655": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bean/trant_bean_9.png",
+    "name": "9",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 14
+    }
+  },
+  {
+    "image": "packages/ur/assets/trant/trant_bean/trant_bean_dead.png",
+    "name": "dead",
+    "frames": 1,
+    "frame": {
+      "width": 1,
+      "height": 1
     }
   }
 ]

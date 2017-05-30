@@ -1,112 +1,101 @@
 [
   {
-    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_6_seed_0_119919911_png_1354830279.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_6_seed_0_119919911_png_1354830279": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bubble/trant_bubble_1.png",
+    "name": "1",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 2
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_1_seed_0_119919911_png_1354830122.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_1_seed_0_119919911_png_1354830122": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bubble/trant_bubble_10.png",
+    "name": "10",
+    "frames": 1,
+    "frame": {
+      "width": 19,
+      "height": 4
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_8_seed_0_119919911_png_1354830289.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_8_seed_0_119919911_png_1354830289": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bubble/trant_bubble_2.png",
+    "name": "2",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 2
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_10_seed_0_119919911_png_1354830301.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_10_seed_0_119919911_png_1354830301": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bubble/trant_bubble_3.png",
+    "name": "3",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 2
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_3_seed_0_119919911_png_1354830125.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_3_seed_0_119919911_png_1354830125": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bubble/trant_bubble_4.png",
+    "name": "4",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 9
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_5_seed_0_119919911_png_1354830131.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_5_seed_0_119919911_png_1354830131": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bubble/trant_bubble_5.png",
+    "name": "5",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 13
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_2_seed_0_119919911_png_1354830123.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_2_seed_0_119919911_png_1354830123": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bubble/trant_bubble_6.png",
+    "name": "6",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 13
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble_dead__x1_1_png_1354832397.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "dead__x1_1_png_1354832397": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bubble/trant_bubble_7.png",
+    "name": "7",
+    "frames": 1,
+    "frame": {
+      "width": 24,
+      "height": 3
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_7_seed_0_119919911_png_1354830283.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_7_seed_0_119919911_png_1354830283": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bubble/trant_bubble_8.png",
+    "name": "8",
+    "frames": 1,
+    "frame": {
+      "width": 24,
+      "height": 3
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_4_seed_0_119919911_png_1354830127.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_4_seed_0_119919911_png_1354830127": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bubble/trant_bubble_9.png",
+    "name": "9",
+    "frames": 1,
+    "frame": {
+      "width": 24,
+      "height": 3
     }
   },
   {
-    "image": "packages/ur/assets/resource/trant_bubble/trant_bubble__f_cap_10_f_num_10_h_10_m_9_seed_0_119919911_png_1354830295.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_9_seed_0_119919911_png_1354830295": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/trant_bubble/trant_bubble_dead.png",
+    "name": "dead",
+    "frames": 1,
+    "frame": {
+      "width": 1,
+      "height": 1
     }
   }
 ]

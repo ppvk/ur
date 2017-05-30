@@ -1,0 +1,38 @@
+[
+  {
+    "image": "packages/ur/assets/trant/paper_tree/paper_tree_needs_pet_false_needs_water_false.png",
+    "name": "needs_pet_false_needs_water_false",
+    "frames": 1,
+    "frame": {
+      "width": 4,
+      "height": 6
+    }
+  },
+  {
+    "image": "packages/ur/assets/trant/paper_tree/paper_tree_needs_pet_false_needs_water_true.png",
+    "name": "needs_pet_false_needs_water_true",
+    "frames": 1,
+    "frame": {
+      "width": 4,
+      "height": 6
+    }
+  },
+  {
+    "image": "packages/ur/assets/trant/paper_tree/paper_tree_needs_pet_true_needs_water_false.png",
+    "name": "needs_pet_true_needs_water_false",
+    "frames": 1,
+    "frame": {
+      "width": 4,
+      "height": 6
+    }
+  },
+  {
+    "image": "packages/ur/assets/trant/paper_tree/paper_tree_needs_pet_true_needs_water_true.png",
+    "name": "needs_pet_true_needs_water_true",
+    "frames": 1,
+    "frame": {
+      "width": 4,
+      "height": 6
+    }
+  }
+]

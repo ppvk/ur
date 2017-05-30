@@ -1,12 +1,11 @@
 [
   {
-    "image": "packages/ur/assets/resource/firefly_hive/firefly_hive__x1_1_png_1354839702.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_1_png_1354839702": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/firefly_hive/firefly_hive.png",
+    "name": "firefly_hive",
+    "frames": 1,
+    "frame": {
+      "width": 1,
+      "height": 1
     }
   }
 ]

@@ -1,12 +1,29 @@
 [
   {
-    "image": "packages/ur/assets/resource/rock_beryl_1/rock_beryl_1__x1_iconic_png_1354831450.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_iconic_png_1354831450": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/rock_beryl/rock_beryl_1.png",
+    "name": "1",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 1
+    }
+  },
+  {
+    "image": "packages/ur/assets/trant/rock_beryl/rock_beryl_2.png",
+    "name": "2",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 1
+    }
+  },
+  {
+    "image": "packages/ur/assets/trant/rock_beryl/rock_beryl_3.png",
+    "name": "3",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 1
     }
   }
 ]

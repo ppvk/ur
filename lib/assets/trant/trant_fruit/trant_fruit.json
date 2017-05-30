@@ -1,112 +1,57 @@
 [
   {
-    "image": "packages/ur/assets/resource/trant_fruit/trant_fruit__f_cap_10_f_num_10_h_10_m_5_seed_0_111119119_png_1354830651.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_5_seed_0_111119119_png_1354830651": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_3.png",
+    "name": "3",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_fruit/trant_fruit__f_cap_10_f_num_10_h_10_m_2_seed_0_111119119_png_1354830641.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_2_seed_0_111119119_png_1354830641": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_1.png",
+    "name": "1",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_fruit/trant_fruit__f_cap_10_f_num_10_h_10_m_3_seed_0_111119119_png_1354830644.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_3_seed_0_111119119_png_1354830644": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_8.png",
+    "name": "8",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_fruit/trant_fruit__f_cap_10_f_num_10_h_10_m_4_seed_0_111119119_png_1354830647.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_4_seed_0_111119119_png_1354830647": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_2.png",
+    "name": "2",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_fruit/trant_fruit__f_cap_10_f_num_10_h_10_m_6_seed_0_111119119_png_1354830658.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_6_seed_0_111119119_png_1354830658": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_6.png",
+    "name": "6",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_fruit/trant_fruit__f_cap_10_f_num_10_h_10_m_1_seed_0_111119119_png_1354830639.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_1_seed_0_111119119_png_1354830639": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_9.png",
+    "name": "9",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_fruit/trant_fruit__f_cap_10_f_num_10_h_10_m_7_seed_0_111119119_png_1354830664.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_7_seed_0_111119119_png_1354830664": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_7.png",
+    "name": "7",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_fruit/trant_fruit__f_cap_10_f_num_10_h_10_m_10_seed_0_111119119_png_1354830686.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_10_seed_0_111119119_png_1354830686": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_4.png",
+    "name": "4",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_fruit/trant_fruit__f_cap_10_f_num_10_h_10_m_8_seed_0_111119119_png_1354830670.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_8_seed_0_111119119_png_1354830670": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_dead.png",
+    "name": "dead",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_fruit/trant_fruit_dead__x1_1_png_1354832400.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "dead__x1_1_png_1354832400": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_5.png",
+    "name": "5",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_fruit/trant_fruit__f_cap_10_f_num_10_h_10_m_9_seed_0_111119119_png_1354830677.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_9_seed_0_111119119_png_1354830677": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_10.png",
+    "name": "10",
+    "frames": 1
   }
 ]

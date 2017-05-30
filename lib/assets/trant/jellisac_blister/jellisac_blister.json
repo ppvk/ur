@@ -1,42 +1,38 @@
 [
   {
-    "image": "packages/ur/assets/resource/jellisac_blister/jellisac_blister_jellySack4_x1_empty_x1_small_x1_big_x1_bigger_x1_ready_png_1354833093.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "jellySack4_x1_empty_x1_small_x1_big_x1_bigger_x1_ready_png_1354833093": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/jellisac_blister/jellisac_blister_1.png",
+    "name": "1",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 1
     }
   },
   {
-    "image": "packages/ur/assets/resource/jellisac_blister/jellisac_blister_jellySack2_x1_empty_x1_small_x1_big_x1_bigger_x1_ready_png_1354833091.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "jellySack2_x1_empty_x1_small_x1_big_x1_bigger_x1_ready_png_1354833091": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/jellisac_blister/jellisac_blister_2.png",
+    "name": "2",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 1
     }
   },
   {
-    "image": "packages/ur/assets/resource/jellisac_blister/jellisac_blister_jellySack1_x1_empty_x1_small_x1_big_x1_bigger_x1_ready_png_1354833090.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "jellySack1_x1_empty_x1_small_x1_big_x1_bigger_x1_ready_png_1354833090": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/jellisac_blister/jellisac_blister_3.png",
+    "name": "3",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 1
     }
   },
   {
-    "image": "packages/ur/assets/resource/jellisac_blister/jellisac_blister_jellySack3_x1_empty_x1_small_x1_big_x1_bigger_x1_ready_png_1354833092.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "jellySack3_x1_empty_x1_small_x1_big_x1_bigger_x1_ready_png_1354833092": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/jellisac_blister/jellisac_blister_4.png",
+    "name": "4",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 1
     }
   }
 ]

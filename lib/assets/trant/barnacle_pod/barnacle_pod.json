@@ -1,12 +1,11 @@
 [
   {
-    "image": "packages/ur/assets/resource/barnacle_pod/barnacle_pod__x1_1_png_1354839704.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_1_png_1354839704": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/barnacle_pod/barnacle_pod.png",
+    "name": "barnacle_pod",
+    "frames": 1,
+    "frame": {
+      "width": 1,
+      "height": 1
     }
   }
 ]

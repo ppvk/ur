@@ -1,12 +1,29 @@
 [
   {
-    "image": "packages/ur/assets/resource/rock_metal_1/rock_metal_1__x1_iconic_png_1354832614.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_x1_iconic_png_1354832614": {
-        "frames": []
-      }
+    "image": "packages/ur/assets/trant/rock_metal/rock_metal_1.png",
+    "name": "1",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 1
+    }
+  },
+  {
+    "image": "packages/ur/assets/trant/rock_metal/rock_metal_2.png",
+    "name": "2",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 1
+    }
+  },
+  {
+    "image": "packages/ur/assets/trant/rock_metal/rock_metal_3.png",
+    "name": "3",
+    "frames": 1,
+    "frame": {
+      "width": 5,
+      "height": 1
     }
   }
 ]

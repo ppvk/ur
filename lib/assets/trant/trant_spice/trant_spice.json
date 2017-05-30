@@ -1,112 +1,57 @@
 [
   {
-    "image": "packages/ur/assets/resource/trant_spice/trant_spice__f_cap_10_f_num_10_h_10_m_3_seed_0_191119119_png_1354830927.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_3_seed_0_191119119_png_1354830927": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_spice/trant_spice_6.png",
+    "name": "6",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_spice/trant_spice__f_cap_10_f_num_10_h_10_m_10_seed_0_191119119_png_1354830969.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_10_seed_0_191119119_png_1354830969": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_spice/trant_spice_10.png",
+    "name": "10",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_spice/trant_spice__f_cap_10_f_num_10_h_10_m_7_seed_0_191119119_png_1354830948.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_7_seed_0_191119119_png_1354830948": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_spice/trant_spice_5.png",
+    "name": "5",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_spice/trant_spice__f_cap_10_f_num_10_h_10_m_6_seed_0_191119119_png_1354830942.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_6_seed_0_191119119_png_1354830942": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_spice/trant_spice_7.png",
+    "name": "7",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_spice/trant_spice__f_cap_10_f_num_10_h_10_m_8_seed_0_191119119_png_1354830955.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_8_seed_0_191119119_png_1354830955": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_spice/trant_spice_3.png",
+    "name": "3",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_spice/trant_spice_dead__x1_1_png_1354832414.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "dead__x1_1_png_1354832414": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_spice/trant_spice_1.png",
+    "name": "1",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_spice/trant_spice__f_cap_10_f_num_10_h_10_m_2_seed_0_191119119_png_1354830925.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_2_seed_0_191119119_png_1354830925": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_spice/trant_spice_8.png",
+    "name": "8",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_spice/trant_spice__f_cap_10_f_num_10_h_10_m_9_seed_0_191119119_png_1354830962.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_9_seed_0_191119119_png_1354830962": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_spice/trant_spice_dead.png",
+    "name": "dead",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_spice/trant_spice__f_cap_10_f_num_10_h_10_m_4_seed_0_191119119_png_1354830932.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_4_seed_0_191119119_png_1354830932": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_spice/trant_spice_4.png",
+    "name": "4",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_spice/trant_spice__f_cap_10_f_num_10_h_10_m_1_seed_0_191119119_png_1354830923.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_1_seed_0_191119119_png_1354830923": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_spice/trant_spice_9.png",
+    "name": "9",
+    "frames": 1
   },
   {
-    "image": "packages/ur/assets/resource/trant_spice/trant_spice__f_cap_10_f_num_10_h_10_m_5_seed_0_191119119_png_1354830937.png",
-    "height": 0,
-    "width": 0,
-    "animations": {
-      "_f_cap_10_f_num_10_h_10_m_5_seed_0_191119119_png_1354830937": {
-        "frames": []
-      }
-    }
+    "image": "packages/ur/assets/trant/trant_spice/trant_spice_2.png",
+    "name": "2",
+    "frames": 1
   }
 ]
