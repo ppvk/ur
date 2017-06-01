@@ -2,10 +2,10 @@ import 'dart:io';
 import 'dart:convert';
 
 main() async {
-  String animal = 'trant_bubble';
-  int frameHeight = 4;
-  int frameWidth = 19;
-  String name = '10';
+  String animal = 'trant_fruit';
+  int frameHeight = 8;
+  int frameWidth = 3;
+  String name = '4';
 
   File json = new File('lib/assets/trant/$animal/$animal.json');
   if (json.existsSync()) {

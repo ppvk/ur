@@ -1,22 +1,48 @@
 [
   {
-    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_3.png",
-    "name": "3",
-    "frames": 1
-  },
-  {
     "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_1.png",
     "name": "1",
-    "frames": 1
+    "frames": 1,
+    "frame": {
+      "width": 3,
+      "height": 4
+    }
   },
   {
-    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_8.png",
-    "name": "8",
+    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_10.png",
+    "name": "10",
     "frames": 1
   },
   {
     "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_2.png",
     "name": "2",
+    "frames": 1,
+    "frame": {
+      "width": 3,
+      "height": 4
+    }
+  },
+  {
+    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_3.png",
+    "name": "3",
+    "frames": 1,
+    "frame": {
+      "width": 3,
+      "height": 4
+    }
+  },
+  {
+    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_4.png",
+    "name": "4",
+    "frames": 1,
+    "frame": {
+      "width": 3,
+      "height": 8
+    }
+  },
+  {
+    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_5.png",
+    "name": "5",
     "frames": 1
   },
   {
@@ -25,33 +51,27 @@
     "frames": 1
   },
   {
-    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_9.png",
-    "name": "9",
-    "frames": 1
-  },
-  {
     "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_7.png",
     "name": "7",
     "frames": 1
   },
   {
-    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_4.png",
-    "name": "4",
+    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_8.png",
+    "name": "8",
+    "frames": 1
+  },
+  {
+    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_9.png",
+    "name": "9",
     "frames": 1
   },
   {
     "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_dead.png",
     "name": "dead",
-    "frames": 1
-  },
-  {
-    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_5.png",
-    "name": "5",
-    "frames": 1
-  },
-  {
-    "image": "packages/ur/assets/trant/trant_fruit/trant_fruit_10.png",
-    "name": "10",
-    "frames": 1
+    "frames": 1,
+    "frame": {
+      "width": 1,
+      "height": 1
+    }
   }
 ]
